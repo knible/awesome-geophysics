@@ -5,7 +5,10 @@
 
 # Awesome Geophysics
 
-Welcome to **Awesome Geophysics** – a community-curated, ever-evolving collection of resources that spans the full spectrum of geophysical sciences. Whether you’re a student just beginning your journey, a researcher pushing the boundaries of the field, or a professional applying cutting-edge methods, this guide is your one-stop destination for software, datasets, educational materials, industry news, and much more. Let’s explore the Earth’s hidden depths and stay connected with the vibrant global geophysics community!
+<p align="justify">
+Welcome to <strong>Awesome Geophysics</strong> – a community-curated, ever-evolving collection of resources that spans the full spectrum of geophysical sciences. Whether you’re a student just beginning your journey, a researcher pushing the boundaries of the field, or a professional applying cutting-edge methods, this guide is your one-stop destination for software, datasets, educational materials, industry news, and much more. Let’s explore the Earth’s hidden depths and stay connected with the vibrant global geophysics community!
+</p>
+
 
 ---
 
@@ -205,7 +208,7 @@ Engage with the geophysics community through diverse media channels:
 
 - **Blogs**  
   - **[AGU Blogosphere](https://blogs.agu.org/)** – A diverse collection of blogs discussing the latest in geoscience and geophysics.  
-  - **[Geophysics Rocks](https://geophysicsrocks.com/)** – An engaging blog that breaks down complex geophysical concepts in an accessible way.  
+  - **[Geophysics Rocks](https://geophysicsrocks.com/)** – An engaging blog that breaks down complex geophysical concepts in an accessible way.
   - **Technical Blogs:**  
     Follow posts on Medium or Towards Data Science that delve into geophysical data processing and modeling.
 
@@ -283,7 +286,7 @@ Stay informed with the latest trends, breakthroughs, and market news in geophysi
 ### **Social Media and Professional Networks**  
 - **LinkedIn Groups:** *Geophysics and Seismology Professionals*, *Exploration Geophysics Network*.  
 - **Twitter/X Accounts:** Follow **@SEG_org**, **@EAGE_news**, **@USGS** for seismic and exploration news.  
-- **Reddit Communities:** *r/geology*, *r/seismology*, *r/geophysics* for discussions and shared insights.
+- **Reddit Communities:** "*r/geology*", "*r/seismology*", "*r/geophysics*" for discussions and shared insights.
 
 ### **Government and Regulatory Updates**  
 - **United States Geological Survey (USGS)** – Seismic hazard reports and earthquake risk assessments.  
@@ -295,10 +298,19 @@ Stay informed with the latest trends, breakthroughs, and market news in geophysi
 - **AAPG Discovery Thinking Series** – Talks from industry leaders on geophysical innovation.  
 - **EAGE Conferences** – Events focusing on AI in geoscience and renewable energy applications.
 
-### **Geophysical Technology Startups**  
-- **SAGA Robotics** – Developing autonomous drones for geophysical surveys.  
-- **Seisintel** – AI-based seismic data analytics for offshore exploration.  
-- **Xcalibur Multiphysics** – Advances in airborne geophysical exploration.
+### Geophysical Technology Startups
+
+- **SAGA Robotics** – Developing autonomous drones for geophysical surveys. [Website](https://sagarobotics.com)
+- **Seisintel** – AI-based seismic data analytics for offshore exploration. [Website](https://seisintel.com)
+- **Xcalibur Multiphysics** – Advances in airborne geophysical exploration. [Website](https://xcaliburmp.com)
+- **Geophysical Technology, Inc. (GTI)** – Specializes in innovative geophysical solutions for subsurface exploration, enhancing seismic operational efficiency and earth imaging quality. [Website](https://geophysicaltechnology.com)
+- **Pixxel** – Developing a constellation of hyperspectral imaging satellites to provide high-resolution Earth observation data across various industries. [Website](https://pixxel.space)
+- **Wheere** – Offers an indoor geolocation system capable of precise positioning even through substantial concrete barriers, utilizing low-frequency wave emission and advanced algorithms. [Website](https://wheere.com)
+- **Quaise Energy** – Aims to harness geothermal energy by drilling deeper into the Earth's crust using gyrotron technology to vaporize rock, accessing "superhot" rock for sustainable energy. [Website](https://quaise.energy)
+- **Fervo Energy** – Utilizes advanced drilling techniques to enhance geothermal well outputs, providing renewable energy solutions for high-demand sectors like AI data centers. [Website](https://fervoenergy.com)
+- **Fleet Space Technologies** – Combines low Earth orbit nanosatellites with ground-based sensors and AI to revolutionize minerals exploration, creating detailed 3D subsurface maps. [Website](https://fleetspace.com)
+- **Kapta Space** – Developing electronically steerable radar-based imaging technology for satellites, enabling faster and more precise scanning of large areas for various applications. [Website](https://kaptaspace.com)
+
 
 ---
 
@@ -345,7 +357,7 @@ Shell scripting is crucial for automating repetitive geophysical workflows, such
 ### **Programming and Scripting Resources**  
 - **Python:** Learn geophysical applications with **[ObsPy](https://github.com/obspy/obspy)** (seismology), **[SimPEG](https://simpeg.xyz/)** (geophysical inversions), and **[Fatiando a Terra](https://www.fatiando.org/)** (gravity & magnetics).  
 - **MATLAB & R:** Used for geophysical modeling, data analysis, and visualization.  
-- **Fortran & C/C++:** Essential for high-performance computing in numerical geophysical simulations.
+- **Fortran & C/C++ & Julia:** Essential for high-performance computing in numerical geophysical simulations.
 
 ### **Technical Blogs and Code Tutorials**  
 - **[Towards Data Science](https://towardsdatascience.com/)** – Covers geospatial data science and machine learning in geosciences.  
@@ -353,16 +365,16 @@ Shell scripting is crucial for automating repetitive geophysical workflows, such
 - **[Geophysics Rocks](https://geophysicsrocks.com/)** – Tutorials on seismic interpretation, inversion, and data analysis.
 
 ### **Professional Books and eBooks**  
-- *Seismic Data Analysis – Yilmaz* (A fundamental guide for seismic processing and interpretation).  
-- *Quantitative Geophysics and Geochemistry – Dahlen & Tromp* (Advanced theoretical concepts).  
-- *Python for Data Analysis – Wes McKinney* (Great for geophysical data wrangling).
+- [*Seismic Data Analysis – Yilmaz*](https://library.seg.org/doi/book/10.1190/1.9781560801580) (A fundamental guide for seismic processing and interpretation).  
+- [*Theoretical & Computational Seismology – Tromp*](https://tromp.princeton.edu/publications) (Advanced theoretical & computational concepts).  
+- [*Theoretical Global Seismology – Dahlen & Tromp*] (Great for beginning).
 
 ### **Software Development Tools**  
 - **[Git & GitHub](https://github.com/)** – Version control for geophysical code, datasets, and collaborative projects.  
 - **[Jupyter Notebook](https://jupyter.org/)** – Ideal for interactive geophysics tutorials, visualization, and scripting.  
 - **[Docker](https://www.docker.com/)** – Containerized environments for geophysical software reproducibility.  
 - **[Google Earth Engine](https://earthengine.google.com/)** – Cloud-based analysis of geospatial and remote sensing data.
-
+- **[Quantum Geographic Information System (QGIS)](https://earthengine.google.com/)** – A free, open-source software that allows users to create, edit, visualize, analyze, and publish geospatial information.
 ---
 
 ## How to Contribute

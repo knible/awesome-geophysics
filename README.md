@@ -48,9 +48,11 @@ Enhance your geophysical workflows with these essential software solutions:
 - **[GMT (Generic Mapping Tools)](https://www.generic-mapping-tools.org/)**  
   A robust toolset for creating high-quality maps and plots used across geoscience disciplines.
 
-- **[ParaView](https://www.paraview.org/)**  
+- **[ParaView](https://github.com/aradfarahani/Geoelectricspy)**  
   An interactive open-source application for visualizing large 3D geophysical datasets.
-
+  
+- **[Geoelectricspy](https://www.paraview.org/)**
+  An interactive 3D visualization of subsurface resistivity using geoelectric data.
 ---
 
 ## Datasets and Databases

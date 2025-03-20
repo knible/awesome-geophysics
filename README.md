@@ -62,6 +62,15 @@ Enhance your geophysical workflows with these essential software solutions:
 
 - **[SAC (Seismic Analysis Code)](https://ds.iris.edu/ds/nodes/dmc/software/downloads/sac/)**  
   A go-to tool for seismic waveform analysis, offering powerful data manipulation for seismologists worldwide.
+
+- **[swprocess](https://github.com/jpvantassel/swprocess)**  
+  A Python package for surface wave processing.
+
+- **[Surfer](https://www.goldensoftware.com/products/surfer/)**  
+  A contouring and 3D mapping software, great for visualizing subsurface geophysical data.
+
+- **[Geopsy](http://www.geopsy.org/)**  
+  A tool for processing ambient vibration data, widely used in site characterization and microzonation studies.
   
 - **Additional Utilities:**  
   - **[Seismic Un*x](https://wiki.seismic-unix.org/start)** – A powerful toolkit for seismic data processing.  

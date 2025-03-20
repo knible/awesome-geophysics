@@ -59,6 +59,9 @@ Enhance your geophysical workflows with these essential software solutions:
 
 - **[ResIPy](https://gitlab.com/hkex/resipy)**  
   A Python wrapper around the R2 family of codes (for 2D/3D DC/IP inversion).
+
+- **[SAC (Seismic Analysis Code)](https://ds.iris.edu/ds/nodes/dmc/software/downloads/sac/)**  
+  A go-to tool for seismic waveform analysis, offering powerful data manipulation for seismologists worldwide.
   
 - **Additional Utilities:**  
   - **[Seismic Un*x](https://wiki.seismic-unix.org/start)** – A powerful toolkit for seismic data processing.  

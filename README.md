@@ -162,7 +162,8 @@ Network with leading experts, researchers, and industry professionals in geophys
 - **[International Union of Geodesy and Geophysics (IUGG)](https://www.iugg.org/)** – A collective body supporting geophysical research worldwide.  
 
 ### **Regional and National Societies**  
-- **[National Institute of Geological Sciences (NIGS)](http://nigs.science.upd.edu.ph/)** – Based in the Philippines, dedicated to geophysical and geological research and education.  
+- **[National Institute of Geological Sciences (NIGS)](http://nigs.science.upd.edu.ph/)** – Based in the Philippines, dedicated to geophysical and geological research and education.
+- **[National Iranian Geophysics Society(NIGS)](https://nigs.ir/en/home-en/about-nigs-en/)** – nonprofit organization for geophysicists and engineers. It is an organization providing a national network of geoscientists and academic professionals.  
 - **[Australian Society of Exploration Geophysicists (ASEG)](https://www.aseg.org.au/)** – A professional body for geophysicists working in exploration and mining.  
 - **[Canadian Society of Exploration Geophysicists (CSEG)](https://cseg.ca/)** – Provides networking, education, and professional development for geophysicists in Canada.  
 - **[Geological Society of London (GSL)](https://www.geolsoc.org.uk/)** – One of the world's oldest geological societies, supporting geophysics research.  

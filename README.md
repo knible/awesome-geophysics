@@ -282,8 +282,10 @@ Have a tool, dataset, blog, or resource to add? Here’s how you can help:
 2. **Share Your Expertise:**  
    Contribute by writing tutorials, guides, or blog posts that explain complex geophysical concepts in an accessible way.
 
-3. **Engage in the Community:**  
-   Join our online forums, social media groups, or webinars to exchange ideas and feedback.
+## License
+
+This project is licensed under the **MIT License** – see the [LICENSE](./LICENSE) file for details.
+
 
 Together, we can continue to make Awesome Geophysics the definitive resource for the global geophysical community.
 

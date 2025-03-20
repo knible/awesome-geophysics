@@ -227,7 +227,7 @@ This list is a community effort and grows with your contributions!
 Have a tool, dataset, blog, or resource to add? Here’s how you can help:
 
 1. **Submit a Suggestion:**  
-   Open an issue or pull request on our [GitHub repository](https://github.com/your-repo/awesome-geophysics) to add or update resources.
+   Open an issue or pull request on our [GitHub repository](https://github.com/aradfarahani/awesome-geophysics) to add or update resources.
 
 2. **Share Your Expertise:**  
    Contribute by writing tutorials, guides, or blog posts that explain complex geophysical concepts in an accessible way.

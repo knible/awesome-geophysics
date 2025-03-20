@@ -282,7 +282,7 @@ Have a tool, dataset, blog, or resource to add? Here’s how you can help:
 3. **Engage in the Community:**  
    Join our online forums, social media groups, or webinars to exchange ideas and feedback.
 
-Together, we can continue to make Awesome Geophysics the definitive resource for the global geophysical community...
+Together, we can continue to make Awesome Geophysics the definitive resource for the global geophysical community.
 
 ---
 

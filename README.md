@@ -88,6 +88,9 @@ Access raw and processed geophysical data from reputable sources:
 - **[USGS Earthquake Hazards Program](https://earthquake.usgs.gov/)**  
   Provides real-time and historical earthquake data along with hazard maps for seismic research.
 
+- **[International Seismological Centre (ISC)](https://www.isc.ac.uk/)**  
+  The ultimate catalog of seismic events worldwide, with detailed phase data for researchers.
+
 - **[Global Seismographic Network (GSN)](https://www.iris.edu/hq/programs/gsn)**  
   High-quality seismic recordings for deep Earth studies.
 

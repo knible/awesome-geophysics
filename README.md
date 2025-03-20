@@ -72,6 +72,9 @@ Enhance your geophysical workflows with these essential software solutions:
 
 - **[Geopsy](http://www.geopsy.org/)**  
   A tool for processing ambient vibration data, widely used in site characterization and microzonation studies.
+
+- **[hvsrpy](https://github.com/jpvantassel/hvsrpy)**  
+  A Python package for horizontal-to-vertical spectral ratio processing.
   
 - **Additional Utilities:**  
   - **[Seismic Un*x](https://wiki.seismic-unix.org/start)** – A powerful toolkit for seismic data processing.  

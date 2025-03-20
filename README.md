@@ -108,11 +108,14 @@ Access raw and processed geophysical data from reputable sources:
 Build and refine your geophysics knowledge with these top-tier learning materials:
 
 - **Textbooks**  
-  - *[Introduction to Seismology by Peter Shearer](https://www.cambridge.org/core/books/introduction-to-seismology/)*  
+  - *[Introduction to Seismology by Peter Shearer](https://www.cambridge.org/highereducation/books/introduction-to-seismology/C1471C1B553C05997E2BC7EB26D4C26D#overview)*  
     A comprehensive guide to seismic wave theory and earthquake science.  
-  - *[Geodynamics by Donald Turcotte and Gerald Schubert](https://www.cambridge.org/core/books/geodynamics/)*  
+  - *[Geodynamics by Donald Turcotte and Gerald Schubert](https://www.cambridge.org/highereducation/books/geodynamics/E0E847DA9FE68BDB90C2E457791F0C98#overview)*  
     An in-depth exploration of Earth’s tectonic processes and mantle convection.
-
+    A comprehensive guide to seismic wave theory and earthquake science.  
+  - *["The Solid Earth" by C.M.R. Fowler](https://www.cambridge.org/highereducation/books/the-solid-earth/0A66AC49BB6105F54AACF52D3C3121A4)*  
+    A broad overview of geophysics, covering seismology, gravity, and geomagnetism.
+    
 - **Online Courses and Tutorials**  
   - **[Coursera Geophysics Courses](https://www.coursera.org/search?query=geophysics)**  
     Flexible courses covering both fundamental and advanced geophysical concepts.  

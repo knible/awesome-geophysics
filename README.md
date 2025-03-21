@@ -54,6 +54,9 @@ Enhance your geophysical workflows with these essential software solutions:
 
 - **[ParaView](https://www.paraview.org/)**  
   An interactive open-source application for visualizing large 3D geophysical datasets.
+
+- **[celeri](https://github.com/brendanjmeade/celeri)**  
+  A python-based package designed to image earthquake cycle activity including the spatial and time varying fault coupling across geometrically complex fault systems at large scales.
   
 - **[Geoelectricspy](https://github.com/aradfarahani/Geoelectricspy)**  
   An interactive 3D visualization tool for subsurface resistivity data—perfect for understanding geoelectric structures.

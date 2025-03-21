@@ -195,10 +195,16 @@ Stay connected with the latest advancements through these key events:
   A premier event showcasing the latest in exploration geophysics, technology innovations, and research.
 - **[SSA Annual Meeting](https://www.seismosoc.org/meetings/)**  
   Focused on earthquake science and the latest seismological research.
+- **[European Geosciences Union General Assembly](https://www.egu.eu/meetings/general-assembly/)**  
+  A massive European event covering all things Earth and planetary science.
+- **[Seismological Society of America Annual Meeting](https://www.seismosoc.org/meetings/)**  
+  A focused event for seismology buffs, packed with earthquake science updates.
+  
 - **Specialized Workshops and Symposia:**  
   Look out for targeted events (e.g., MAG symposiums, specialized inversion workshops) that delve into niche topics.
-- **Virtual Conferences and Webinars:**  
-  Many organizations now offer hybrid events for global participation.
+- **Virtual Conferences and Webinars:**
+- DeFord Lecture Organized by Jackson School of Geosciences at The University of Texas at Austin
+and Many organizations now offer hybrid events for global participation.
 
 ---
 

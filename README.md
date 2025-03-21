@@ -150,7 +150,7 @@ Access raw and processed geophysical data from reputable sources:
 
 Build and refine your geophysics knowledge with these top-tier learning materials:
 
-- **Textbooks**  
+### **Textbooks**  
   - *[Introduction to Seismology by Peter Shearer](https://www.cambridge.org/highereducation/books/introduction-to-seismology/C1471C1B553C05997E2BC7EB26D4C26D#overview)*  
     A comprehensive guide to seismic wave theory and earthquake science.  
   - *[Geodynamics by Donald Turcotte and Gerald Schubert](https://www.cambridge.org/highereducation/books/geodynamics/E0E847DA9FE68BDB90C2E457791F0C98#overview)*  
@@ -160,17 +160,17 @@ Build and refine your geophysics knowledge with these top-tier learning material
   - *["Exploration Seismology" by Sheriff and Geldart](https://www.cambridge.org/core/books/exploration-seismology/CC00727A219943E62F6FF01426DBA9D2)*  
     The bible of seismic exploration—perfect for applied geophysicists in oil, gas, or mineral industries.
     
-- **Online Courses and Tutorials**  
+### **Online Courses and Tutorials**  
   - **[Coursera Geophysics Courses](https://www.coursera.org/search?query=geophysics)**  
     Flexible courses covering both fundamental and advanced geophysical concepts.  
   - **[Seismo-Live](http://www.seismo-live.org/)**  
     Hands-on Jupyter notebooks for interactive seismology learning.
   - **[Udemy and edX Geoscience Courses](https://www.udemy.com/)** – Additional platforms offering specialized courses in geophysics and remote sensing.
 
-- **Workshops and Webinars**  
+### **Workshops and Webinars**  
   Regular virtual and in-person events hosted by professional organizations and universities.
   
-- **University Programs and Certificates:**  
+### **University Programs and Certificates:**  
   Explore graduate programs, summer schools, and certificate courses in geosciences for deeper academic training.
 
 ---
@@ -250,19 +250,19 @@ and Many organizations now offer hybrid events for global participation.
 
 Engage with the geophysics community through diverse media channels:
 
-- **Blogs**  
+### **Blogs**  
   - **[AGU Blogosphere](https://blogs.agu.org/)** – A diverse collection of blogs discussing the latest in geoscience and geophysics.  
   - **[Geophysics Rocks](https://geophysicsrocks.com/)** – An engaging blog that breaks down complex geophysical concepts in an accessible way.
   - **Technical Blogs:**  
     Follow posts on Medium or Towards Data Science that delve into geophysical data processing and modeling.
 
-- **Podcasts**  
+### **Podcasts**  
   Stay updated with discussions and interviews with leading experts:  
   - *“Don’t Panic Geocast”* – Insightful episodes on exploration challenges and breakthroughs.  
   - *“Nature Podcast”* – Broad scientific discussions with a geoscience perspective.  
   - Look for niche podcasts focusing on seismic interpretation, inversion techniques, and remote sensing.
 
-- **Community Forums and Social Media**  
+### **Community Forums and Social Media**  
   - **[EAGE Slack/Discord Channels](#)** – Join dedicated channels for real-time discussion and collaboration.  
   - **LinkedIn Groups and Reddit Communities** – Engage with global geoscientists to exchange ideas and troubleshoot issues.
 

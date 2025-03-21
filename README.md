@@ -346,16 +346,16 @@ Stay informed with the latest trends, breakthroughs, and market news in geophysi
 
 ### Geophysical Technology Startups
 
-- **SAGA Robotics** – Developing autonomous drones for geophysical surveys. [Website](https://sagarobotics.com)
-- **Seisintel** – AI-based seismic data analytics for offshore exploration. [Website](https://seisintel.com)
-- **Xcalibur Multiphysics** – Advances in airborne geophysical exploration. [Website](https://xcaliburmp.com)
-- **Geophysical Technology, Inc. (GTI)** – Specializes in innovative geophysical solutions for subsurface exploration, enhancing seismic operational efficiency and earth imaging quality. [Website](https://geophysicaltechnology.com)
-- **Pixxel** – Developing a constellation of hyperspectral imaging satellites to provide high-resolution Earth observation data across various industries. [Website](https://pixxel.space)
-- **Wheere** – Offers an indoor geolocation system capable of precise positioning even through substantial concrete barriers, utilizing low-frequency wave emission and advanced algorithms. [Website](https://wheere.com)
-- **Quaise Energy** – Aims to harness geothermal energy by drilling deeper into the Earth's crust using gyrotron technology to vaporize rock, accessing "superhot" rock for sustainable energy. [Website](https://quaise.energy)
-- **Fervo Energy** – Utilizes advanced drilling techniques to enhance geothermal well outputs, providing renewable energy solutions for high-demand sectors like AI data centers. [Website](https://fervoenergy.com)
-- **Fleet Space Technologies** – Combines low Earth orbit nanosatellites with ground-based sensors and AI to revolutionize minerals exploration, creating detailed 3D subsurface maps. [Website](https://fleetspace.com)
-- **Kapta Space** – Developing electronically steerable radar-based imaging technology for satellites, enabling faster and more precise scanning of large areas for various applications. [Website](https://kaptaspace.com)
+- [**SAGA Robotics**](https://sagarobotics.com) – Developing autonomous drones for geophysical surveys. 
+- [**Seisintel**](https://seisintel.com) – AI-based seismic data analytics for offshore exploration.
+- [**Xcalibur Multiphysics**](https://xcaliburmp.com) – Advances in airborne geophysical exploration. 
+- [**Geophysical Technology, Inc. (GTI)**](https://geophysicaltechnology.com) – Specializes in innovative geophysical solutions for subsurface exploration, enhancing seismic operational efficiency and earth imaging quality.
+- [**Pixxel**](https://pixxel.space) – Developing a constellation of hyperspectral imaging satellites to provide high-resolution Earth observation data across various industries.
+- [**Wheere**](https://wheere.com) – Offers an indoor geolocation system capable of precise positioning even through substantial concrete barriers, utilizing low-frequency wave emission and advanced algorithms. 
+- [**Quaise Energy**](https://quaise.energy) – Aims to harness geothermal energy by drilling deeper into the Earth's crust using gyrotron technology to vaporize rock, accessing "superhot" rock for sustainable energy. 
+- [**Fervo Energy**](https://fervoenergy.com) – Utilizes advanced drilling techniques to enhance geothermal well outputs, providing renewable energy solutions for high-demand sectors like AI data centers.
+- [**Fleet Space Technologies**](https://fleetspace.com) – Combines low Earth orbit nanosatellites with ground-based sensors and AI to revolutionize minerals exploration, creating detailed 3D subsurface maps.
+- [**Kapta Space**](https://kaptaspace.com) – Developing electronically steerable radar-based imaging technology for satellites, enabling faster and more precise scanning of large areas for various applications.
 
 
 ---

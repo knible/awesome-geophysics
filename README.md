@@ -588,12 +588,10 @@ Together, we can continue to make Awesome Geophysics the definitive resource for
 To the extent possible under law, all contributors have waived all copyright and
 related or neighboring rights to this work.
 
-
 | ▲ [Top](#awesome-geophysics) |
 | --- |
 
 ---
 
-*Whether you’re diving into seismic data processing, modeling Earth’s subsurface, or simply looking for inspiration, we invite you to explore, share, and contribute. Let’s push the boundaries of geophysical exploration and understanding—together!*
+*Whether you’re diving into seismic data processing, modeling Earth’s subsurface, or simply looking for inspiration, we invite you to explore, share, and contribute. Let’s push the boundaries of geophysical exploration and understanding—together!*   
 
-     

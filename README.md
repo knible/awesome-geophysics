@@ -21,6 +21,7 @@ Welcome to <strong>Awesome Geophysics</strong> – a community-curated, ever-evo
   - [Workshops and Webinars](#workshops-and-webinars)
   - [University Programs and Certificates](#university-programs-and-certificates)
 - [Research Papers and Journals](#research-papers-and-journals)
+- [Tutorials and Cheat Sheets](#Tutorials-and-Cheat-Sheets)
 - [Organizations and Societies](#organizations-and-societies)
   - [Global Organizations](#global-organizations)
   - [Regional and National Societies](#regional-and-national-societies)
@@ -61,12 +62,48 @@ Enhance your geophysical workflows with these essential software solutions:
 
 - **[SeisUnix](https://github.com/JohnWStockwellJr/SeisUnix)**  
   A classic suite for seismic reflection data processing, widely used in both academia and industry.
+  
+- **[GeoPhyInv](https://github.com/pawbz/GeoPhyInv.jl)**  
+  Julia Toolbox for Geophysical Modeling and Inverse Problems.
+
+- **[modelr.io](https://github.com/agilescientific/modelr)**  
+  Web app for simple synthetic seismic forward modelling.
+
+- **[bh_tomo](https://github.com/groupeLIAMG/bh_tomo)**  
+  Numba-accelerated computation of surface wave dispersion.
+
+- **[disba](https://github.com/keurfonluu/disba)**  
+  Borehole radar and seismic tomography package.
+
+- **[emsig](https://emsig.xyz/)**  
+  Controlled-source electromagnetic modellers for layered (`empymod`) and three-dimensional (`emg3d`) anisotropic media.
+
+- **[GemPy](https://github.com/gempy-project/gempy)**  
+  3-D structural geological modelling software with implicit modelling and support for stochastic modelling.
+
+- **[PySIT](http://pysit.org)**  
+  A Toolbox for seismic inversion and seismic imaging.
+
+- **[XTgeo](https://xtgeo.readthedocs.io/en/latest)**  
+  Python library with C backend to support manipulation of (oil industry) subsurface reservoir modelling.
 
 - **[Madagascar](http://www.ahay.org/wiki/Main_Page)**  
   An open-source platform designed for reproducible geophysical data processing and analysis.
 
 - **[ObsPy](https://github.com/obspy/obspy)**  
   A comprehensive Python library for seismology, perfect for waveform analysis, data handling, and visualization.
+
+- **[PyFWI](https://pyfwi.readthedocs.io/en/latest)**  
+  It can be used to perform full-waveform inversion (FWI) and time-lapse FWI of seismic data.
+
+- **[pyGeoPressure](https://pygeopressure.readthedocs.io/en/latest)**  
+  Pore pressure prediction using well log data and seismic velocity data.
+  
+- **[PyGMI](https://patrick-cole.github.io/pygmi/pygmi.html)**  
+  It is a modelling and interpretation suite aimed at magnetic, gravity and other datasets.
+
+- **[PyLops](https://pylops.readthedocs.io/en/latest)**  
+  Linear Operators with some geophysics/seismic modules (e.g., pre- and post-stack AVO inversion, deconvolution, Marchenko redatuming, Radon filtering).
 
 - **[SimPEG](https://simpeg.xyz/)**  
   A flexible framework for geophysical modeling and inversion, covering gravity, electromagnetics, and more.
@@ -189,6 +226,14 @@ Keep abreast of the latest discoveries and methods in geophysics:
   Search for thematic collections and review papers that offer comprehensive overviews of emerging topics in geophysics.
 - **Conference Proceedings:**  
   Explore proceedings from major conferences (e.g., AGU, SEG, SSA) for the latest research presentations.
+
+---
+
+## Tutorials and Cheat Sheets
+
+- [Geophysics Cheat Sheet](https://static.squarespace.com/static/549dcda5e4b0a47d0ae1db1e/54a06d6ee4b0d158ed95f696/54a06d70e4b0d158ed9603f5/1350658645407/Cheatsheet_geophysics.pdf) - Cheat Sheet for Geophysics.
+- [Rock Physics Cheat Sheet](https://static.squarespace.com/static/549dcda5e4b0a47d0ae1db1e/54a06d6ee4b0d158ed95f696/54a06d6fe4b0d158ed960042/1374593568367/Cheatsheet_Rock_Physics.pdf) –  Cheat Sheet for Rock Physics.
+- [Petroleum Science Cheat Sheet](https://static.squarespace.com/static/549dcda5e4b0a47d0ae1db1e/54a06d6ee4b0d158ed95f696/54a06d6fe4b0d158ed96019e/1323808738753/Cheatsheet_petroleum.pdf) – Cheat Sheet for Petroleum Science.
 
 ---
 

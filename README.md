@@ -9,25 +9,52 @@
 Welcome to <strong>Awesome Geophysics</strong> – a community-curated, ever-evolving collection of resources that spans the full spectrum of geophysical sciences. Whether you’re a student just beginning your journey, a researcher pushing the boundaries of the field, or a professional applying cutting-edge methods, this guide is your one-stop destination for software, datasets, educational materials, industry news, and much more. Let’s explore the Earth’s hidden depths and stay connected with the vibrant global geophysics community!
 </p>
 
-
 ---
 
 ## Table of Contents
 
+Below is the table of contents for the "Awesome Geophysics" repository, structured to reflect its main sections and subsections for clear and easy navigation.
+
+---
+
+## Table of Contents
 - [Software and Tools](#software-and-tools)
 - [Datasets and Databases](#datasets-and-databases)
 - [Educational Resources](#educational-resources)
+  - [Textbooks](#textbooks)
+  - [Online Courses and Tutorials](#online-courses-and-tutorials)
+  - [Workshops and Webinars](#workshops-and-webinars)
+  - [University Programs and Certificates](#university-programs-and-certificates)
 - [Research Papers and Journals](#research-papers-and-journals)
 - [Organizations and Societies](#organizations-and-societies)
+  - [Global Organizations](#global-organizations)
+  - [Regional and National Societies](#regional-and-national-societies)
+  - [Professional Networks and Communities](#professional-networks-and-communities)
 - [Conferences and Events](#conferences-and-events)
 - [Blogs, Podcasts, and Community Forums](#blogs-podcasts-and-community-forums)
+  - [Blogs](#blogs)
+  - [Podcasts](#podcasts)
+  - [Community Forums and Social Media](#community-forums-and-social-media)
 - [Open-Source Projects](#open-source-projects)
 - [Career and Professional Development](#career-and-professional-development)
 - [Industry News and Updates](#industry-news-and-updates)
+  - [Industry Publications](#industry-publications)
+  - [Online News Platforms](#online-news-platforms)
+  - [Market Analysis and Research Reports](#market-analysis-and-research-reports)
+  - [Press Releases and Corporate Blogs](#press-releases-and-corporate-blogs)
+  - [Social Media and Professional Networks](#social-media-and-professional-networks)
+  - [Government and Regulatory Updates](#government-and-regulatory-updates)
+  - [Industry Webinars and Live Updates](#industry-webinars-and-live-updates)
+  - [Geophysical Technology Startups](#geophysical-technology-startups)
 - [Miscellaneous Resources](#miscellaneous-resources)
+  - [Data Visualization Libraries](#data-visualization-libraries)
+  - [Shell Scripting & Automation (Bash)](#shell-scripting--automation-bash)
+  - [Programming and Scripting Resources](#programming-and-scripting-resources)
+  - [Technical Blogs and Code Tutorials](#technical-blogs-and-code-tutorials)
+  - [Professional Books and eBooks](#professional-books-and-ebooks)
+  - [Software Development Tools](#software-development-tools)
 - [How to Contribute](#how-to-contribute)
 - [License](#license)
-
 ---
 
 ## Software and Tools
@@ -52,11 +79,11 @@ Enhance your geophysical workflows with these essential software solutions:
 - **[GMT (Generic Mapping Tools)](https://www.generic-mapping-tools.org/)**  
   A robust toolset for creating high-quality maps and plots used across geoscience disciplines.
 
-- **[ParaView](https://www.paraview.org/)**  
-  An interactive open-source application for visualizing large 3D geophysical datasets.
-
 - **[celeri](https://github.com/brendanjmeade/celeri)**  
   A python-based package designed to image earthquake cycle activity including the spatial and time varying fault coupling across geometrically complex fault systems at large scales.
+
+- **[RECAST](https://github.com/keliankaz/recast)**  
+  Flexible and Scalable Earthquake Forecasting.
   
 - **[Geoelectricspy](https://github.com/aradfarahani/Geoelectricspy)**  
   An interactive 3D visualization tool for subsurface resistivity data—perfect for understanding geoelectric structures.
@@ -98,6 +125,12 @@ Access raw and processed geophysical data from reputable sources:
 - **[USGS Earthquake Hazards Program](https://earthquake.usgs.gov/)**  
   Provides real-time and historical earthquake data along with hazard maps for seismic research.
 
+- **[NGDC (National Geophysical Data Center)](https://www.ngdc.noaa.gov/)**  
+  A vast archive of geophysical data—think marine gravity, terrestrial magnetics, and bathymetry. Now part of NOAA’s NCEI.
+
+- **[NOAA National Centers for Environmental Information (NCEI)](https://www.ncei.noaa.gov/)**  
+  A goldmine of geomagnetic, gravity, and climate data—ideal for interdisciplinary geophysical studies.
+  
 - **[International Seismological Centre (ISC)](https://www.isc.ac.uk/)**  
   The ultimate catalog of seismic events worldwide, with detailed phase data for researchers.
 
@@ -333,8 +366,10 @@ A few additional resources to enhance your geophysical toolkit:
 - **[Matplotlib](https://matplotlib.org/)** – Essential for 2D plotting in Python, commonly used in geophysics.  
 - **[Plotly](https://plotly.com/python/)** – Interactive visualizations ideal for geospatial and geophysical data.  
 - **[Seaborn](https://seaborn.pydata.org/)** – Statistical data visualization for enhanced analysis.  
-- **[GMT (Generic Mapping Tools)](https://www.generic-mapping-tools.org/)** – Widely used for creating high-quality geoscientific maps.  
+- **[GMT (Generic Mapping Tools)](https://www.generic-mapping-tools.org/)** – Widely used for creating high-quality geoscientific maps. 
 - **[ParaView](https://www.paraview.org/)** – Open-source tool for 3D visualization of geophysical datasets.
+- **[VisIt](https://visit-dav.github.io/visit-website/)** – A high-performance visualization tool for large-scale geophysical simulations—perfect for parallel processing and big data.
+- **[Tecplot](https://tecplot.com/)** – A premium option for visualizing computational fluid dynamics and geophysical data with stunning, publication-ready graphics.
 
 ### **Shell Scripting & Automation (Bash)**  
 Shell scripting is crucial for automating repetitive geophysical workflows, such as data preprocessing, seismic analysis, and large-scale simulations.

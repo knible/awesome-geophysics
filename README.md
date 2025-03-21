@@ -234,8 +234,10 @@ Keep abreast of the latest discoveries and methods in geophysics:
 - **Conference Proceedings:**  
   Explore proceedings from major conferences (e.g., AGU, SEG, SSA) for the latest research presentations.
 
-  | ▲ [Top](#awesome-geophysics) |
+
+| ▲ [Top](#awesome-geophysics) |
 | --- |
+
 ---
 
 ## Tutorials and Cheat Sheets
@@ -493,6 +495,10 @@ Shell scripting is crucial for automating repetitive geophysical workflows, such
 - **[Docker](https://www.docker.com/)** – Containerized environments for geophysical software reproducibility.  
 - **[Google Earth Engine](https://earthengine.google.com/)** – Cloud-based analysis of geospatial and remote sensing data.
 - **[Quantum Geographic Information System (QGIS)](https://earthengine.google.com/)** – A free, open-source software that allows users to create, edit, visualize, analyze, and publish geospatial information.
+
+| ▲ [Top](#awesome-geophysics) |
+| --- |
+
 ---
 
 ## How to Contribute

@@ -168,6 +168,8 @@ Build and refine your geophysics knowledge with these top-tier learning material
   - **[Udemy and edX Geoscience Courses](https://www.udemy.com/)** – Additional platforms offering specialized courses in geophysics and remote sensing.
 
 ### **Workshops and Webinars**  
+  - *Annual Seismology Skill Building Workshop for Undergraduates* organized by [**Miami University**](https://miamioh.edu/) X [**EarthScope Consortium**](https://www.earthscope.org/)
+
   Regular virtual and in-person events hosted by professional organizations and universities.
   
 ### **University Programs and Certificates:**  

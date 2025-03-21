@@ -179,6 +179,8 @@ Access raw and processed geophysical data from reputable sources:
   - **Mineral Exploration Data:** Databases provided by mining companies and governmental surveys.  
   - **Electromagnetic Survey Archives:** Repositories for controlled-source EM data curated by research institutions.
 
+| ▲ [Top](#awesome-geophysics) |
+| --- |
 ---
 
 ## Educational Resources
@@ -210,6 +212,8 @@ Build and refine your geophysics knowledge with these top-tier learning material
 ### **University Programs and Certificates:**  
   Explore graduate programs, summer schools, and certificate courses in geosciences for deeper academic training.
 
+| ▲ [Top](#awesome-geophysics) |
+| --- |
 ---
 
 ## Research Papers and Journals
@@ -227,6 +231,8 @@ Keep abreast of the latest discoveries and methods in geophysics:
 - **Conference Proceedings:**  
   Explore proceedings from major conferences (e.g., AGU, SEG, SSA) for the latest research presentations.
 
+  | ▲ [Top](#awesome-geophysics) |
+| --- |
 ---
 
 ## Tutorials and Cheat Sheets
@@ -235,6 +241,8 @@ Keep abreast of the latest discoveries and methods in geophysics:
 - [Rock Physics Cheat Sheet](https://static.squarespace.com/static/549dcda5e4b0a47d0ae1db1e/54a06d6ee4b0d158ed95f696/54a06d6fe4b0d158ed960042/1374593568367/Cheatsheet_Rock_Physics.pdf) –  Cheat Sheet for Rock Physics.
 - [Petroleum Science Cheat Sheet](https://static.squarespace.com/static/549dcda5e4b0a47d0ae1db1e/54a06d6ee4b0d158ed95f696/54a06d6fe4b0d158ed96019e/1323808738753/Cheatsheet_petroleum.pdf) – Cheat Sheet for Petroleum Science.
 
+| ▲ [Top](#awesome-geophysics) |
+| --- |
 ---
 
 ## Organizations and Societies
@@ -266,6 +274,8 @@ Network with leading experts, researchers, and industry professionals in geophys
 - **ResearchGate** – Connect with researchers and access the latest publications in geophysics.  
 - **Academic Mailing Lists** – Join geophysics-focused lists like *IRIS Seismology*, *SEG’s Technical Sections*, and *EAGE’s Discussion Forums*.
 
+| ▲ [Top](#awesome-geophysics) |
+| --- |
 ---
 
 ## Conferences and Events
@@ -289,6 +299,8 @@ Stay connected with the latest advancements through these key events:
 - DeFord Lecture Organized by Jackson School of Geosciences at The University of Texas at Austin
 and Many organizations now offer hybrid events for global participation.
 
+| ▲ [Top](#awesome-geophysics) |
+| --- |
 ---
 
 ## Blogs, Podcasts, and Community Forums
@@ -311,6 +323,9 @@ Engage with the geophysics community through diverse media channels:
   - **[EAGE Slack/Discord Channels](#)** – Join dedicated channels for real-time discussion and collaboration.  
   - **LinkedIn Groups and Reddit Communities** – Engage with global geoscientists to exchange ideas and troubleshoot issues.
 
+| ▲ [Top](#awesome-geophysics) |
+| --- |
+
 ---
 
 ## Open-Source Projects
@@ -326,6 +341,9 @@ Collaborate on innovative projects that push the boundaries of geophysical resea
 - **Additional Projects:**  
   - Explore repositories on GitHub tagged with “geophysics” for emerging tools and collaborative projects.  
   - Contribute to projects that integrate machine learning, big data analytics, and cloud computing into geophysical workflows.
+
+| ▲ [Top](#awesome-geophysics) |
+| --- |
 
 ---
 
@@ -343,6 +361,10 @@ Advance your geophysical career with these resources:
   Attend conferences, webinars, and local meetups to expand your professional network.
 - **Resume and Interview Tips:**  
   Check out blogs and guides dedicated to geoscience career advice.
+
+
+| ▲ [Top](#awesome-geophysics) |
+| --- |
 
 ---
 
@@ -400,6 +422,8 @@ Stay informed with the latest trends, breakthroughs, and market news in geophysi
 - [**Fleet Space Technologies**](https://fleetspace.com) – Combines low Earth orbit nanosatellites with ground-based sensors and AI to revolutionize minerals exploration, creating detailed 3D subsurface maps.
 - [**Kapta Space**](https://kaptaspace.com) – Developing electronically steerable radar-based imaging technology for satellites, enabling faster and more precise scanning of large areas for various applications.
 
+| ▲ [Top](#awesome-geophysics) |
+| --- |
 
 ---
 
@@ -483,11 +507,18 @@ Together, we can continue to make Awesome Geophysics the definitive resource for
 
 > **For more detailed guidelines, please check the [CONTRIBUTING.md](https://github.com/aradfarahani/awesome-geophysics/blob/master/CONTRIBUTING.md) file.**
 
+
+| ▲ [Top](#awesome-geophysics) |
+| --- |
+
 ---
 
 ## License
 
 This project is licensed under the **MIT License** – see the [LICENSE](./LICENSE) file for details.
+
+| ▲ [Top](#awesome-geophysics) |
+| --- |
 
 ---
 

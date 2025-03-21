@@ -517,7 +517,7 @@ Shell scripting is crucial for automating repetitive geophysical workflows, such
 ### **Professional Books and eBooks**  
 - [*Seismic Data Analysis – Yilmaz*](https://library.seg.org/doi/book/10.1190/1.9781560801580) (A fundamental guide for seismic processing and interpretation).  
 - [*Theoretical & Computational Seismology – Tromp*](https://tromp.princeton.edu/publications) (Advanced theoretical & computational concepts).  
-- [*Theoretical Global Seismology – Dahlen & Tromp*] (Great for beginning).
+- [*Theoretical Global Seismology – Dahlen & Tromp*](https://books.google.de/books/about/Theoretical_Global_Seismology.html?id=GWnuBws5gBEC&redir_esc=y) (Great for beginning).
 
 ### **Software Development Tools**  
 - **[Git & GitHub](https://github.com/)** – Version control for geophysical code, datasets, and collaborative projects.  

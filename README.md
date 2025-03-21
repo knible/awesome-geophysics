@@ -596,3 +596,4 @@ related or neighboring rights to this work.
 
 *Whether you’re diving into seismic data processing, modeling Earth’s subsurface, or simply looking for inspiration, we invite you to explore, share, and contribute. Let’s push the boundaries of geophysical exploration and understanding—together!*
 
+     

@@ -147,6 +147,9 @@ Enhance your geophysical workflows with these essential software solutions:
 - **Additional Utilities:**  
   - **[Seismic Un*x](https://wiki.seismic-unix.org/start)** – A powerful toolkit for seismic data processing.  
   - **[PyGIMLi](https://www.pygimli.org/)** – A library for geophysical inversion and modeling with an emphasis on ease of use.
+ 
+| ▲ [Top](#awesome-geophysics) |
+| --- |
 
 ---
 

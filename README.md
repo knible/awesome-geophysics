@@ -31,7 +31,6 @@ Welcome to <strong>Awesome Geophysics</strong> – a community-curated, ever-evo
   - [Blogs](#blogs)
   - [Podcasts](#podcasts)
   - [Community Forums and Social Media](#community-forums-and-social-media)
-- [Open-Source Projects](#open-source-projects)
 - [Career and Professional Development](#career-and-professional-development)
 - [Industry News and Updates](#industry-news-and-updates)
   - [Industry Publications](#industry-publications)
@@ -99,6 +98,9 @@ Enhance your geophysical workflows with these essential software solutions:
 - **[GPRPy](https://github.com/NSGeophysics/GPRPy)**  
   Multi-format, GUI-based GPR processing and visualization.
 
+- **[Pyrocko](https://pyrocko.org/)**  
+  A toolkit for seismic waveform analysis and earthquake modeling.
+
 - **[RAGU](https://github.com/btobers/RAGU)**  
   Radar interpretation GUI compatible with multiple radar datasets.
 
@@ -132,8 +134,26 @@ Enhance your geophysical workflows with these essential software solutions:
 - **[celeri](https://github.com/brendanjmeade/celeri)**  
   A python-based package designed to image earthquake cycle activity including the spatial and time varying fault coupling across geometrically complex fault systems at large scales.
 
+- **[Auralib](https://github.com/whamlyn/auralib)**  
+  Python package to support investigation of geoscience problems including geophysics, rock physics, petrophysics, and data read/write in common formats.
+
 - **[RECAST](https://github.com/keliankaz/recast)**  
   Flexible and Scalable Earthquake Forecasting.
+
+- **[Bruges](https://github.com/agile-geoscience/bruges/tree/master/bruges)**  
+  Various geophysical equations and tools.
+
+- **[MDIO](https://mdio.dev)**  
+  Open source chunked and compressed cloud storage for seismic data based on Zarr with fast seismic ingestion and export tools – [Docs](https://mdio-python.readthedocs.io), [Source](https://github.com/TGSAI/mdio-python).
+
+- **[OpendTect-Plugins](https://github.com/waynegm/OpendTect-Plugins)**  
+  Open source plugins for the [OpendTect](#platforms) seismic interpretation platform. See [the docs](http://waynegm.github.io/OpendTect-Plugin-Docs) for more information.
+
+- **[OpenSeaSeis](https://github.com/JohnWStockwellJr/OpenSeaSeis)**  
+  Seismic workflow generator and seismic viewer.
+
+- **[Pastas](https://github.com/pastas/pastas)**  
+  Open-source Python framework for the analysis of groundwater time series.
   
 - **[Geoelectricspy](https://github.com/aradfarahani/Geoelectricspy)**  
   An interactive 3D visualization tool for subsurface resistivity data—perfect for understanding geoelectric structures.
@@ -141,8 +161,20 @@ Enhance your geophysical workflows with these essential software solutions:
 - **[R2](http://www.es.lancs.ac.uk/people/amb/Freeware/R2/R2.htm)**  
   A forward/inverse solution for 3D or 2D current flow in quadrilateral or triangular meshes.
 
+- **[pyVDS](https://github.com/equinor/pyvds)**  
+  Convenience wrapper around Bluware's OpenVDS+ Python bindings which enables reading of VDS files with a syntax familiar to users of segyio.
+  
+- **[pyZGY](https://github.com/equinor/pyzgy)**  
+  Convenience wrapper around Schlumberger's OpenZGY Python package which enables reading of ZGY files with a syntax familiar to users of segyio.
+
+- **[RedPy](https://github.com/ahotovec/REDPy)**  
+  Auto-clustering for seismic events.
+
 - **[ResIPy](https://gitlab.com/hkex/resipy)**  
   A Python wrapper around the R2 family of codes (for 2D/3D DC/IP inversion).
+
+- **[rsudp](https://github.com/raspishake/rsudp)**  
+  Continuous ObsPy-based visual display, sudden motion monitoring, and historical replay of Raspberry Shake data.
 
 - **[SAC (Seismic Analysis Code)](https://ds.iris.edu/ds/nodes/dmc/software/downloads/sac/)**  
   A go-to tool for seismic waveform analysis, offering powerful data manipulation for seismologists worldwide.
@@ -205,8 +237,20 @@ Access raw and processed geophysical data from reputable sources:
 - **[Global Seismographic Network (GSN)](https://www.iris.edu/hq/programs/gsn)**  
   High-quality seismic recordings for deep Earth studies.
 
-- **[GeoMapApp](http://www.geomapapp.org/)**  
-  An interactive tool for exploring diverse geophysical datasets, including topography, gravity, and magnetics.
+- **[Poseidon NW Australia](https://drive.google.com/drive/folders/0B7brcf-eGK8Cbk9ueHA0QUU4Zjg)**  
+  Interpreted 3D seismic (32bit) including reports and well logs.
+
+- **[SEG Open Data Catalog]([https://www.npolar.no/quantarctica](https://wiki.seg.org/wiki/Open_data)**  
+  Catalog of "geophysical data that is readily available for download from the internet, via mail, or through special request", maintained by the Society of Exploration Geophysicists.
+
+- **[TerraNubis]([https://www.npolar.no/quantarctica](https://wiki.seg.org/wiki/Open_data)**  
+  Catalog of "geophysical data that is readily available for download from the internet, via mail, or through special request", maintained by the Society of Exploration Geophysicists.
+  
+- **[GeoMapApp](https://terranubis.com/datalist/free)**  
+  The new _Open Seismic Repository_, includes the classic F3 and Penobscot seismic volumes (which both also have wells and other data assets).
+
+- **[ICGEM](http://icgem.gfz-potsdam.de/home)**  
+  Hosts gravity field spherical harmonic models and provides a webservice for generating grids of gravity functionals (geoid, gravity anomaly, vertical derivatives, etc).
 
 - **Specialized Repositories:**  
   - **Mineral Exploration Data:** Databases provided by mining companies and governmental surveys.  
@@ -357,25 +401,6 @@ Engage with the geophysics community through diverse media channels:
 ### **Community Forums and Social Media**  
   - **[EAGE Slack/Discord Channels](#)** – Join dedicated channels for real-time discussion and collaboration.  
   - **LinkedIn Groups and Reddit Communities** – Engage with global geoscientists to exchange ideas and troubleshoot issues.
-
-| ▲ [Top](#awesome-geophysics) |
-| --- |
-
----
-
-## Open-Source Projects
-
-Collaborate on innovative projects that push the boundaries of geophysical research:
-
-- **[ObsPy](https://github.com/obspy/obspy)**  
-  A widely adopted Python library for seismic data analysis.
-- **[Madagascar](http://www.ahay.org/wiki/Main_Page)**  
-  An open-source platform emphasizing reproducible geophysical data processing.
-- **[Pyrocko](https://pyrocko.org/)**  
-  A toolkit for seismic waveform analysis and earthquake modeling.
-- **Additional Projects:**  
-  - Explore repositories on GitHub tagged with “geophysics” for emerging tools and collaborative projects.  
-  - Contribute to projects that integrate machine learning, big data analytics, and cloud computing into geophysical workflows.
 
 | ▲ [Top](#awesome-geophysics) |
 | --- |

@@ -239,7 +239,7 @@ Access raw and processed geophysical data from reputable sources:
 - **[Poseidon NW Australia](https://drive.google.com/drive/folders/0B7brcf-eGK8Cbk9ueHA0QUU4Zjg)**  
   Interpreted 3D seismic (32bit) including reports and well logs.
 
-- **[SEG Open Data Catalog]([https://www.npolar.no/quantarctica](https://wiki.seg.org/wiki/Open_data)**  
+- **[SEG Open Data Catalog](https://wiki.seg.org/wiki/Open_data)**  
   Catalog of "geophysical data that is readily available for download from the internet, via mail, or through special request", maintained by the Society of Exploration Geophysicists.
 
 - **[TerraNubis]([https://www.npolar.no/quantarctica](https://wiki.seg.org/wiki/Open_data)**  

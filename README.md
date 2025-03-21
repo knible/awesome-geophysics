@@ -13,12 +13,6 @@ Welcome to <strong>Awesome Geophysics</strong> – a community-curated, ever-evo
 ---
 
 ## Table of Contents
-
-Below is the table of contents for the "Awesome Geophysics" repository, structured to reflect its main sections and subsections for clear and easy navigation.
-
----
-
-## Table of Contents
 - [Software and Tools](#software-and-tools)
 - [Datasets and Databases](#datasets-and-databases)
 - [Educational Resources](#educational-resources)
@@ -56,6 +50,9 @@ Below is the table of contents for the "Awesome Geophysics" repository, structur
   - [Software Development Tools](#software-development-tools)
 - [How to Contribute](#how-to-contribute)
 - [License](#license)
+
+| ▲ [Top](#awesome-geophysics) |
+| --- |
 ---
 
 ## Software and Tools

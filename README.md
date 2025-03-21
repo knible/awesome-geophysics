@@ -121,6 +121,8 @@ Build and refine your geophysics knowledge with these top-tier learning material
     An in-depth exploration of Earth’s tectonic processes and mantle convection.
   - *["The Solid Earth" by C.M.R. Fowler](https://www.cambridge.org/highereducation/books/the-solid-earth/0A66AC49BB6105F54AACF52D3C3121A4)*  
     A broad overview of geophysics, covering seismology, gravity, and geomagnetism.
+  - *["Exploration Seismology" by Sheriff and Geldart](https://www.cambridge.org/core/books/exploration-seismology/CC00727A219943E62F6FF01426DBA9D2)*  
+    The bible of seismic exploration—perfect for applied geophysicists in oil, gas, or mineral industries.
     
 - **Online Courses and Tutorials**  
   - **[Coursera Geophysics Courses](https://www.coursera.org/search?query=geophysics)**  

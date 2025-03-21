@@ -438,6 +438,8 @@ Have a tool, dataset, blog, or resource to add? Here’s how you can help:
 
 Together, we can continue to make Awesome Geophysics the definitive resource for the global geophysical community.
 
+> **For more detailed guidelines, please check the [CONTRIBUTING.md](https://github.com/aradfarahani/awesome-geophysics/blob/master/CONTRIBUTING.md) file.**
+
 ---
 
 ## License

@@ -93,6 +93,21 @@ Enhance your geophysical workflows with these essential software solutions:
 - **[ObsPy](https://github.com/obspy/obspy)**  
   A comprehensive Python library for seismology, perfect for waveform analysis, data handling, and visualization.
 
+- **[gprMax](http://www.gprmax.com)**  
+  A comprehensive Python library for seismology, perfect for waveform analysis, data handling, and visualization.
+  
+- **[GPRPy](https://github.com/NSGeophysics/GPRPy)**  
+  Multi-format, GUI-based GPR processing and visualization.
+
+- **[RAGU](https://github.com/btobers/RAGU)**  
+  Radar interpretation GUI compatible with multiple radar datasets.
+
+- **[readgssi](https://github.com/iannesbitt/readgssi)**  
+  Fast command line or console-based visualization, filtering, and translation of GSSI radar data.
+
+- **[RGPR](https://github.com/emanuelhuber/RGPR)**  
+  Reads, exports, processes, and plots ground-penetrating radar data.
+  
 - **[PyFWI](https://pyfwi.readthedocs.io/en/latest)**  
   It can be used to perform full-waveform inversion (FWI) and time-lapse FWI of seismic data.
 
@@ -134,6 +149,21 @@ Enhance your geophysical workflows with these essential software solutions:
 
 - **[swprocess](https://github.com/jpvantassel/swprocess)**  
   A Python package for surface wave processing.
+
+- **[SeisComp](https://github.com/SeisComP/seiscomp)**  
+  Seismic observatory automation toolkit. Autodetection, storage, sharing, processing data and more.
+
+- **[Segyio](https://github.com/equinor/segyio)**  
+  Fast library for seismic SEGY files.
+
+- **[SeismicZFP](https://github.com/equinor/seismic-zfp)**  
+  Convert SEG-Y/ZGY files to compressed [SGZ files](https://github.com/equinor/seismic-zfp/blob/master/docs/file-specification.md) & retrieve arbitrary sub-volumes from these, fast.
+  
+- **[synthoseis](https://github.com/sede-open/synthoseis)**  
+  Synthoseis is an open-source, Python-based tool used for generating pseudo-random seismic data.
+
+- **[Front End](https://geogiga.com/products/frontend/)**  
+  Preprocess seismic data with various functions, such as resampling, vertical stacking, nodal data assembling, trace swapping, and format conversion
 
 - **[Surfer](https://www.goldensoftware.com/products/surfer/)**  
   A contouring and 3D mapping software, great for visualizing subsurface geophysical data.

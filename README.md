@@ -245,11 +245,14 @@ Access raw and processed geophysical data from reputable sources:
 - **[SEG Open Data Catalog](https://wiki.seg.org/wiki/Open_data)**  
   Catalog of "geophysical data that is readily available for download from the internet, via mail, or through special request", maintained by the Society of Exploration Geophysicists.
 
-- **[TerraNubis]([https://www.npolar.no/quantarctica](https://wiki.seg.org/wiki/Open_data)**  
-  Catalog of "geophysical data that is readily available for download from the internet, via mail, or through special request", maintained by the Society of Exploration Geophysicists.
+- **[GeoMapApp](https://www.geomapapp.org/data_set_news.html)**  
+  _GeoMapApp_ is a map-based application for browsing, visualizing and analyzing a diverse suite of curated global and regional geoscience data sets. 
+
+- **[Quantarctica](https://www.npolar.no/quantarctica/#toggle-id-2-closed)**  
+  The Quantarctica data package comprises Antarctic geographic data from data centres worldwide – all wrapped in a project file that works on QGIS.
   
-- **[GeoMapApp](https://terranubis.com/datalist/free)**  
-  The new _Open Seismic Repository_, includes the classic F3 and Penobscot seismic volumes (which both also have wells and other data assets).
+- **[TerraNubis](https://terranubis.com/datalist/free)**  
+  TerraNubis is a cloud-based portal for buying, selling and interpreting seismic data sets and interpretations.
 
 - **[ICGEM](http://icgem.gfz-potsdam.de/home)**  
   Hosts gravity field spherical harmonic models and provides a webservice for generating grids of gravity functionals (geoid, gravity anomaly, vertical derivatives, etc).

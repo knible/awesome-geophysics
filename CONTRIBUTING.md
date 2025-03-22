@@ -12,5 +12,3 @@ New categories, or improvements to the existing categorization are welcome.  Ple
 And lastly, if an item on the list shouldn't be listed, please open an issue to have it be removed.
 
 Thank you for your suggestions!
-
- 

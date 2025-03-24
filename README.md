@@ -271,22 +271,98 @@ Access raw and processed geophysical data from reputable sources:
 Build and refine your geophysics knowledge with these top-tier learning materials:
 
 ### **Textbooks**  
-  - *["Introduction to Seismology" by Peter Shearer](https://www.cambridge.org/highereducation/books/introduction-to-seismology/C1471C1B553C05997E2BC7EB26D4C26D#overview)*  
-    A comprehensive guide to seismic wave theory and earthquake science.  
-  - *["Geodynamics" by Donald Turcotte and Gerald Schubert](https://www.cambridge.org/highereducation/books/geodynamics/E0E847DA9FE68BDB90C2E457791F0C98#overview)*  
-    An in-depth exploration of Earth’s tectonic processes and mantle convection.
-  - *["The Solid Earth" by C.M.R. Fowler](https://www.cambridge.org/highereducation/books/the-solid-earth/0A66AC49BB6105F54AACF52D3C3121A4)*  
-    A broad overview of geophysics, covering seismology, gravity, and geomagnetism.
-  - *["Exploration Seismology" by Sheriff and Geldart](https://www.cambridge.org/core/books/exploration-seismology/CC00727A219943E62F6FF01426DBA9D2)*  
-    The bible of seismic exploration—perfect for applied geophysicists in oil, gas, or mineral industries.
-    
-### **Online Courses and Tutorials**  
-  - **[Coursera Geophysics Courses](https://www.coursera.org/search?query=geophysics)**  
-    Flexible courses covering both fundamental and advanced geophysical concepts.  
-  - **[Seismo-Live](http://www.seismo-live.org/)**  
-    Hands-on Jupyter notebooks for interactive seismology learning.
-  - **[Udemy and edX Geoscience Courses](https://www.udemy.com/)** – Additional platforms offering specialized courses in geophysics and remote sensing.
 
+#### **Fundamentals of Seismology and Earth Structure**  
+- *["Introduction to Seismology" by Peter Shearer](https://www.cambridge.org/highereducation/books/introduction-to-seismology/C1471C1B553C05997E2BC7EB26D4C26D#overview)*  
+  A comprehensive guide to seismic wave theory and earthquake science, ideal for students and professionals seeking a solid foundation in seismology.  
+
+- *["Quantitative Seismology" by Keiiti Aki and Paul G. Richards](https://www.amazon.com/Quantitative-Seismology-Keiiti-Aki/dp/0935702962)*  
+  A rigorous and mathematical treatment of seismology, covering wave propagation, earthquake source mechanisms, and data interpretation.
+
+- *["Theoretical Global Seismology" by F.A. Dahlen and Jeroen Tromp](https://press.princeton.edu/books/paperback/9780691001241/theoretical-global-seismology?srsltid=AfmBOopJQJY5xMHx4wz4vRRvT0K1BoMvUqSRlJj208njaMmPlkDClz8p)*  
+  A rigorous treatment of global seismology, wave propagation, and normal mode theory.  
+
+- *["The Seismic Analysis Code: A Primer and User's Guide" by George Helffrich, Ian Bastow and James Wookey](https://www.cambridge.org/core/books/seismic-analysis-code/B6841DCB6C7AE43DFD6D7A338D4141FD)*  
+  A practical guide to using the SAC software for seismic data processing, widely used in academic and industry research.
+
+- *["Fundamentals of Geophysics" by William Lowrie](https://www.cambridge.org/highereducation/books/fundamentals-of-geophysics/B6345BD682B6586F75EC40CB84A18EB1#overview)*  
+  A well-structured introduction to the principles of geophysics, with clear explanations of gravity, magnetism, and seismology.
+
+- *["Modern Global Seismology" by Thorne Lay and Terry C. Wallace](https://www.elsevier.com/books/modern-global-seismology/lay/978-0-12-732870-6)*  
+  Explains the principles of seismology at a global scale, including earthquake dynamics and deep Earth structure.  
+
+---
+
+#### **Geodynamics and Earth's Interior**  
+- *["Geodynamics" by Donald Turcotte and Gerald Schubert](https://www.cambridge.org/highereducation/books/geodynamics/E0E847DA9FE68BDB90C2E457791F0C98#overview)*  
+  An in-depth exploration of Earth’s tectonic processes, mantle convection, and planetary evolution.  
+
+- *["The Solid Earth" by C.M.R. Fowler](https://www.cambridge.org/highereducation/books/the-solid-earth/0A66AC49BB6105F54AACF52D3C3121A4)*  
+  A broad geophysics textbook covering seismology, gravity, geomagnetism, and heat flow.  
+
+- *["Earth Structure: An Introduction to Structural Geology and Tectonics" by Ben A. van der Pluijm and Stephen Marshak](https://www.amazon.com/Earth-Structure-Introduction-Structural-Tectonics/dp/039392467X)*  
+  Explores the deformation of Earth's crust and lithosphere, combining geophysics and geology.  
+
+---
+
+#### **Exploration Geophysics**  
+- *["Exploration Seismology" by Sheriff and Geldart](https://www.cambridge.org/core/books/exploration-seismology/CC00727A219943E62F6FF01426DBA9D2)*  
+  The bible of seismic exploration—perfect for applied geophysicists in the oil, gas, and mineral industries.  
+
+- *["Applied Geophysics" by W. M. Telford, L. P. Geldart, and R. E. Sheriff](https://www.cambridge.org/highereducation/books/applied-geophysics/44E5A30D0C486A109ED2259E9BB6FDFE#overview)*  
+  Covers all major geophysical methods, including gravity, magnetics, electrical resistivity, and seismic exploration.  
+
+- *["Fundamentals of Geophysical Data Processing" by Jon F. Claerbout](https://www.amazon.com/Fundamentals-Geophysical-Data-Processing-Applications/dp/0935702873)*  
+  A classic text on digital signal processing techniques in seismic imaging.  
+
+- *["Gravity and Magnetic Exploration: Principles, Practices, and Applications" by William J. Hinze, Ralph R. B. von Frese, and Afif H. Saad](https://www.cambridge.org/highereducation/books/gravity-and-magnetic-exploration/45D1D0D99A67300D5168C5A23AB848E2#overview)*  
+  An essential resource for understanding potential field geophysics in mineral and hydrocarbon exploration.
+
+- *["Principles of Geophysical Exploration" by D.S. Parasnis](https://www.geokniga.org/bookfiles/geokniga-principles-applied-geophysics.pdf)*  
+  A solid introduction to geophysical exploration methods, with an emphasis on data interpretation.
+
+---
+
+#### **Mathematical and Computational Geophysics**  
+- *["Inverse Problem Theory and Methods for Model Parameter Estimation" by Albert Tarantola](https://www.siam.org/Publications/Books/CS06)*  
+  A must-read for geophysicists working with inverse modeling, parameter estimation, and uncertainty analysis.  
+
+- *["Geophysical Data Analysis: Discrete Inverse Theory" by William Menke](https://www.elsevier.com/books/geophysical-data-analysis/menke/978-0-12-397160-9)*  
+  Covers mathematical techniques for solving inverse problems in geophysics.  
+
+- *["Numerical Methods of Exploration Seismology" by Gary F. Margrave](https://www.cambridge.org/core/books/numerical-methods-of-exploration-seismology/53A21CAD45D4047D117191E6BF4408E2)*  
+  A concise look at applying machine learning to seismic interpretation, geophysical inversion, and subsurface exploration using advanced numerical methods.  
+
+- *["Computational Seismology: A Practical Introduction" by Heiner Igel](https://academic.oup.com/book/26503)*  
+  Provides a hands-on approach to numerical methods in seismology, including wave equation solvers and finite difference techniques.
+
+- *["Geophysical Data Analysis: Discrete Inverse Theory" by William Menke](https://www.elsevier.com/books/geophysical-data-analysis/menke/978-0-12-397160-9)*  
+  A mathematical approach to geophysical data processing, particularly useful for solving inverse problems.
+  
+- *["Global Optimization Methods in Geophysical Inversion" by  Mrinal K. Sen and  Paul L. Stoffa"](https://www.amazon.com/Global-Optimization-Methods-Geophysical-Inversion/dp/1108445845)*  
+  Essential for those working on inversion problems in geophysics, with a focus on optimization techniques.  
+---
+
+#### **Specialized Topics in Geophysics**  
+- *["Seismic Tomography: Theory and Practice" by H.M. Iyer and K. Hirahara](https://www.amazon.com/Seismic-Tomography-Theory-H-M-Iyer/dp/041244230X)*  
+  A foundational book on seismic tomography methods used to image Earth's interior.  
+
+- *["Plate Tectonics: A Very Short Introduction" by Peter Molnar](https://global.oup.com/academic/product/plate-tectonics-a-very-short-introduction-9780198728269)*  
+  A concise introduction to the principles of plate tectonics and its geophysical implications.  
+
+- *["Electromagnetic Methods in Applied Geophysics" by Misac N. Nabighian](https://www.amazon.com/Electromagnetic-Methods-Applied-Geophysics-Investigations/dp/1560800532)*  
+  A definitive reference on electromagnetic techniques for subsurface imaging and mineral exploration.  
+
+- *["An Introduction to Applied and Environmental Geophysics" by John M. Reynolds](https://www.geokniga.org/bookfiles/geokniga-introduction-applied-and-environmental-geophysics_1.pdf)*  
+  Focuses on the use of geophysical methods in environmental and engineering applications.  
+
+- *["Geomagnetism" by Masaru Kono](https://www.nhbs.com/geomagnetism-treatise-on-geophysics-book)*  
+  Covers the physics of the Earth’s magnetic field, paleomagnetism, and dynamo theory.
+
+- *["Gravity and Magnetic Exploration, Principles, Practices, and Applications" by William J. Hinze,Ralph R. B. von Frese and Afif H. Saad,](https://www.cambridge.org/de/universitypress/subjects/earth-and-environmental-science/solid-earth-geophysics/gravity-and-magnetic-exploration-principles-practices-and-applications?format=HB&isbn=9780521871013)*
+
+  A succinct overview of gravity and magnetic exploration, covering core principles, practical techniques, and their applications in geophysical studies.
+  
 ### **Workshops and Webinars**  
   - *Annual Seismology Skill Building Workshop for Undergraduates* organized by [**Miami University**](https://miamioh.edu/) X [**EarthScope Consortium**](https://www.earthscope.org/)
 

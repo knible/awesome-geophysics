@@ -393,22 +393,58 @@ and Many organizations now offer hybrid events for global participation.
 
 Engage with the geophysics community through diverse media channels:
 
-### **Blogs**  
-  - **[AGU Blogosphere](https://blogs.agu.org/)** – A diverse collection of blogs discussing the latest in geoscience and geophysics.  
-  - **[Geophysics Rocks](https://geophysicsrocks.com/)** – An engaging blog that breaks down complex geophysical concepts in an accessible way.
-  - **Technical Blogs:**  
-    Follow posts on Medium or Towards Data Science that delve into geophysical data processing and modeling.
+### **Blogs**
 
-### **Podcasts**  
-  Stay updated with discussions and interviews with leading experts:  
-  - *“Don’t Panic Geocast”* – Insightful episodes on exploration challenges and breakthroughs.  
-  - *“Nature Podcast”* – Broad scientific discussions with a geoscience perspective.  
-  - Look for niche podcasts focusing on seismic interpretation, inversion techniques, and remote sensing.
+- **[AGU Blogosphere](https://blogs.agu.org/)**: Hosted by the American Geophysical Union, this platform offers a diverse collection of blogs discussing the latest developments in geoscience and geophysics. citeturn0search5
 
-### **Community Forums and Social Media**  
-  - **[EAGE Slack/Discord Channels](#)** – Join dedicated channels for real-time discussion and collaboration.  
-  - **LinkedIn Groups and Reddit Communities** – Engage with global geoscientists to exchange ideas and troubleshoot issues.
+- **[Geophysics Rocks](https://geophysicsrocks.com/)**: An engaging blog that breaks down complex geophysical concepts in an accessible way.
 
+- **[Geophysical Insights Blog](https://www.geoinsights.com/blog/)**: Features articles on machine learning applications in geophysical data analysis and other contemporary topics. citeturn0search4
+
+- **[Geology & Geophysics Blog – University of Southampton](https://blog.soton.ac.uk/ggblog/)**: Provides insights into recent research, fieldwork, and developments in geology and geophysics. citeturn0search9
+
+- **[Geophysics Blog – University of Texas Institute for Geophysics](https://ig.utexas.edu/category/news/geophysics-blog/)**: Shares updates on research projects, field studies, and scientific findings in geophysics. citeturn0search7
+
+- **[20 Best Geophysics Blogs and Websites](https://science.feedspot.com/geophysics_blogs/)**: A curated list of top geophysics blogs, providing a broad spectrum of perspectives and topics in the field. citeturn0search0
+
+### **Technical Blogs**
+
+- **[Fundamentals of Geophysical Data Processing – Stanford Exploration Project](https://sep.sites.stanford.edu/fundamentals-geophysical-data-processing)**: Offers comprehensive insights into geophysical data processing techniques. citeturn0search3
+
+- **[Machine Learning Applications to Geophysical Data Analysis – UBC](https://www.slim.eos.ubc.ca/content/machine-learning-applications-geophysical-data-analysis)**: Explores the integration of machine learning in geophysical data analysis. citeturn0search6
+
+- **[Data-Driven Geophysics: From Dictionary Learning to Deep Learning](https://arxiv.org/abs/2007.06183)**: A scholarly article discussing the evolution of data-driven approaches in geophysics. citeturn0academia12
+
+- **[Deep Learning for Geophysics: Current and Future Trends](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021RG000742)**: Reviews the application of deep learning techniques in geophysical research. citeturn0search8
+
+- **[Subsurface Mapping by Ambient Noise Tomography](https://en.wikipedia.org/wiki/Subsurface_mapping_by_ambient_noise_tomography)**: Provides an overview of ambient noise tomography techniques used in subsurface mapping. citeturn0search14
+
+Incorporating these resources will provide your audience with a comprehensive view of both foundational concepts and cutting-edge developments in geophysics. 
+### Podcasts
+
+Engage with in-depth discussions and interviews featuring leading experts:
+
+- **Seismic Soundoff**: Hosted by the Society of Exploration Geophysicists (SEG), this podcast offers in-depth conversations on applied geophysics, addressing challenges in energy, water, and climate. citeturn0search0
+
+- **Third Pod from the Sun**: Presented by the American Geophysical Union, this podcast delves into the stories behind the science, offering insights into various geoscience topics. citeturn0search2
+
+- **Sci & Tell**: Another offering from the American Geophysical Union, this podcast features interviews and first-person stories from scientists, providing a personal perspective on scientific endeavors. citeturn0search2
+
+- **Oxford University Geophysics Podcasts**: The University of Oxford provides a series of podcasts featuring discussions on various geophysics topics, including carbon storage and mathematical aspects of the planet. citeturn0search6
+
+### Community Forums and Social Media
+
+Engage with fellow geoscientists through these platforms:
+
+- **Society of Exploration Geophysicists (SEG) Online Communities**: SEG offers various online platforms, including forums and social media groups, where professionals can discuss topics related to exploration geophysics. citeturn0search12
+
+- **Reddit Communities**: Subreddits like [r/geophysics](https://www.reddit.com/r/geophysics/) and [r/geology](https://www.reddit.com/r/geology/) provide platforms for discussions, Q&A, and sharing the latest research and news in the field.
+
+- **LinkedIn Groups**: Professional groups such as "Geophysics Forum" and "Exploration Geophysics" on LinkedIn offer opportunities to connect with industry experts, participate in discussions, and stay updated on industry trends.
+
+- **Geophysics Forums**: Dedicated forums like the [Geophysics Forum](https://able2know.org/forum/geophysics/) provide spaces to ask questions, share knowledge, and engage in discussions specific to geophysics. citeturn0search5
+
+By actively participating in these podcasts and online communities, you can stay informed about the latest developments in geophysics and connect with professionals who share your interests. 
 | ▲ [Top](#awesome-geophysics) |
 | --- |
 

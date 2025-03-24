@@ -1,0 +1,11 @@
+theme: minima
+title: Awesome Geophysics
+description: A community-curated, ever-evolving collection of resources that spans the full spectrum of geophysical sciences.
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+author:
+  name: "Arad Farahani"
+  github: "https://github.com/aradfarahani"

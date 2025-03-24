@@ -35,7 +35,7 @@ But **what is awesome?**
 
 # Choose an Appropriate License
 
-Need help?
+Need help ?
 
 **http://choosealicense.com/**
 

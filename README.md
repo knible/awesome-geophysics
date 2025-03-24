@@ -51,6 +51,7 @@ Welcome to <strong>Awesome Geophysics</strong> – a community-curated, ever-evo
   - [Technical Blogs and Code Tutorials](#technical-blogs-and-code-tutorials)
   - [Professional Books and eBooks](#professional-books-and-ebooks)
   - [Software Development Tools](#software-development-tools)
+- [Contributors](#Contributors)
 - [How to Contribute](#how-to-contribute)
 - [License](#license)
 
@@ -682,6 +683,10 @@ Shell scripting is crucial for automating repetitive geophysical workflows, such
 Thanks to our many contributors!
 
 [![Contributors](https://contrib.rocks/image?repo=aradfarahani/awesome-geophysics)](https://github.com/aradfarahani/awesome-geophysics/graphs/contributors)
+
+| ▲ [Top](#awesome-geophysics) |
+| --- |
+
 
 ---
 

@@ -163,7 +163,6 @@
         transform: scale(0.95); /* Slight shrink on click */
       }
 
-      /* Pseudo-element for a shiny effect */
       .theme-toggle::before {
         content: "";
         position: absolute;
@@ -231,29 +230,37 @@
 
       @media (max-width: 480px) {
         header {
-          flex-direction: column;
-          align-items: flex-start;
+          padding: 15px 20px; /* Reduce padding for less vertical bulk */
+          flex-direction: row; /* Keep it horizontal, but wrap */
+          flex-wrap: wrap;
+          gap: 10px; /* Add spacing between items */
+          align-items: center; /* Center everything vertically */
         }
 
         header h1 {
-          font-size: 1.5rem;
+          font-size: 1.3rem; /* Slightly smaller for compactness */
+          flex: 1 1 100%; /* Full width to avoid squeezing */
+          margin-bottom: 0; /* Remove extra spacing */
         }
 
         nav {
           display: flex;
-          flex-direction: column;
-          gap: 10px;
-          width: 100%;
-          margin-top: 15px;
+          flex-wrap: wrap; /* Allow links to wrap if needed */
+          gap: 8px; /* Tighter spacing between links */
+          margin-top: 0; /* Remove extra top margin */
+          width: auto; /* Let it shrink naturally */
         }
 
         nav a {
-          margin: 5px 0;
+          margin: 0; /* Remove individual margins */
+          font-size: 0.85rem; /* Smaller, tappable size */
         }
 
         .theme-toggle {
-          align-self: flex-end; /* Align to right in column layout */
-          margin-top: 10px;
+          align-self: center; /* Center it vertically */
+          margin-top: 0; /* No extra margin */
+          padding: 6px 12px; /* Smaller button */
+          font-size: 0.8rem; /* Readable but compact */
         }
       }
     </style>

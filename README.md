@@ -4,7 +4,7 @@
 </a>
 <a href="https://github.com/aradfarahani/awesome-geophysics/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/aradfarahani/awesome-geophysics?color=2b9348"></a>
 [![License](https://img.shields.io/github/license/aradfarahani/awesome-geophysics.svg)](https://github.com/aradfarahani/awesome-geophysics/blob/master/LICENSE)
-[![Commits](https://img.shields.io/github/last-commit/aradfarahani/awesome-geophysics.svg?label=last%20contribution)](https://github.com/aradfarahani/awesome-geophysics/commits/main) [![GitHub stars](https://img.shields.io/github/stars/aradfarahani/awesome-geophysics?style=social)](https://github.com/aradfarahani/awesome-geophysics) [![GitHub Forks](https://img.shields.io/github/forks/aradfarahani/awesome-geophysics?style=social)](https://github.com/aradfarahani/awesome-geophysics)
+[![Commits](https://img.shields.io/github/last-commit/aradfarahani/awesome-geophysics.svg?label=last%20contribution)](https://github.com/aradfarahani/awesome-geophysics/commits/main) [![GitHub stars](https://img.shields.io/github/stars/aradfarahani/awesome-geophysics?style=social)](https://github.com/aradfarahani/awesome-geophysics/stargazers) [![GitHub Forks](https://img.shields.io/github/forks/aradfarahani/awesome-geophysics?style=social)](https://github.com/aradfarahani/awesome-geophysics/forks)
 
 # Awesome Geophysics
 

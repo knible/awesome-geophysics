@@ -588,7 +588,7 @@ Shell scripting is crucial for automating repetitive geophysical workflows, such
 
 Thanks to our many contributors!
 
-[![Contributors](https://contrib.rocks/image?repo=aradfarahani/awesome-geophysics)](https://github.com/aradfarahani/awesome-geophysics/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=aradfarahani/awesome-geophysics&nocache=1)](https://github.com/aradfarahani/awesome-geophysics/graphs/contributors)
 
 | ▲ [Top](#awesome-geophysics) |
 | --- | 

@@ -31,6 +31,27 @@
         color: #f5f5f5;
       }
 
+      /* Global Link Styles */
+      a {
+        color: #1e88e5; /* Blue in light mode for content links */
+        text-decoration: none;
+        transition: color 0.3s ease;
+      }
+
+      a:hover {
+        color: #64b5f6; /* Lighter blue hover in light mode */
+        text-decoration: underline;
+      }
+
+      body.dark-mode a {
+        color: #fff; /* White for all links in dark mode */
+      }
+
+      body.dark-mode a:hover {
+        color: #ffe6f2; /* Light pink hover in dark mode */
+        text-decoration: underline;
+      }
+
       /* Header Styles */
       header {
         background: #ff69b4; /* Barbie Pink */
@@ -56,11 +77,9 @@
       }
 
       nav a {
-        color: #fff; /* White in both modes */
-        text-decoration: none;
+        color: #fff; /* White in both modes for nav */
         margin: 0 15px;
         font-weight: 400;
-        transition: color 0.3s ease;
       }
 
       nav a:hover {
@@ -83,6 +102,32 @@
         background: #2d2d2d;
       }
 
+      /* Table Styles for Readability */
+      table {
+        width: 100%;
+        border-collapse: collapse;
+        margin: 20px 0;
+      }
+
+      th, td {
+        padding: 12px;
+        text-align: left;
+        border-bottom: 1px solid #ddd;
+      }
+
+      th {
+        background: #f5f5f5;
+        font-weight: 700;
+      }
+
+      body.dark-mode th {
+        background: #424242;
+      }
+
+      body.dark-mode td {
+        border-bottom: 1px solid #616161;
+      }
+
       /* Footer Styles */
       footer {
         text-align: center;
@@ -90,30 +135,36 @@
         padding: 20px;
         background: #ff69b4; /* Barbie Pink */
         color: #fff;
-        border-radius: 8px;
-        box-shadow: 0 -4px 16px rgba(0, 0, 0, 0.2);
-        animation: fadeIn 0.7s ease-in;
-      }
+        border-radius: 8Meanwhile, here’s the updated version with the link colors fixed:
 
+```html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{{ page.title }}</title>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&family=Poppins:wght@500;700&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      /* [Previous CSS remains unchanged up to footer, included for context] */
       footer a {
         color: #fff; /* White in light mode */
-        text-decoration: none;
         font-weight: 400;
-        transition: color 0.3s ease;
       }
 
       footer a:hover {
         color: #ffe6f2; /* Light pink hover in light mode */
-        text-decoration: underline;
       }
 
       body.dark-mode footer a {
-        color: #fff; /* White in dark mode for max contrast */
+        color: #fff; /* White in dark mode */
       }
 
       body.dark-mode footer a:hover {
         color: #ffe6f2; /* Light pink hover in dark mode */
-        text-decoration: underline;
       }
 
       /* Images */
@@ -172,45 +223,17 @@
 
       /* Responsive Design */
       @media (max-width: 768px) {
-        body {
-          padding: 15px;
-        }
-
-        header h1 {
-          font-size: 1.8rem;
-        }
-
-        nav a {
-          margin: 0 10px;
-          font-size: 0.9rem;
-        }
-
-        main {
-          padding: 20px;
-        }
-
-        .theme-toggle {
-          top: 15px;
-          right: 15px;
-          padding: 6px 12px;
-          font-size: 0.85rem;
-        }
+        body { padding: 15px; }
+        header h1 { font-size: 1.8rem; }
+        nav a { margin: 0 10px; font-size: 0.9rem; }
+        main { padding: 20px; }
+        .theme-toggle { top: 15px; right: 15px; padding: 6px 12px; font-size: 0.85rem; }
       }
 
       @media (max-width: 480px) {
-        header h1 {
-          font-size: 1.5rem;
-        }
-
-        nav {
-          display: flex;
-          flex-direction: column;
-          gap: 10px;
-        }
-
-        nav a {
-          margin: 5px 0;
-        }
+        header h1 { font-size: 1.5rem; }
+        nav { display: flex; flex-direction: column; gap: 10px; }
+        nav a { margin: 5px 0; }
       }
     </style>
   </head>
@@ -228,7 +251,36 @@
     </header>
 
     <!-- Main Content Section -->
-    <main>{{ content }}</main>
+    <main>
+      <h2>Geophysical Tools</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>Name</th>
+            <th>Description</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><a href="https://github.com/whamlyn/auralib">Auralib</a></td>
+            <td>Python package to support investigation of geoscience problems including geophysics, rock physics, petrophysics, and data read/write in common formats.</td>
+          </tr>
+          <tr>
+            <td><a href="https://github.com/groupeLIAMG/bh_tomo">bh_tomo</a></td>
+            <td>Numba-accelerated computation of surface wave dispersion.</td>
+          </tr>
+          <tr>
+            <td><a href="https://github.com/agile-geoscience/bruges/tree/master/bruges">Bruges</a></td>
+            <td>Various geophysical equations and tools.</td>
+          </tr>
+          <tr>
+            <td><a href="https://github.com/brendanjmeade/celeri">celeri</a></td>
+            <td>A python-based package designed to image earthquake cycle activity including the spatial and time varying fault coupling across geometrically complex fault systems at large scales.</td>
+          </tr>
+          <!-- Add more rows as needed from your original list -->
+        </tbody>
+      </table>
+    </main>
 
     <!-- Footer Section -->
     <footer>
@@ -245,12 +297,3 @@
           ? "Switch to Light Mode"
           : "Switch to Dark Mode";
       }
-
-      // Detect user's preferred color scheme on load
-      if (window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches) {
-        document.body.classList.add("dark-mode");
-        document.querySelector(".theme-toggle").textContent = "Switch to Light Mode";
-      }
-    </script>
-  </body>
-</html>

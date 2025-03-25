@@ -31,6 +31,25 @@
         color: #f5f5f5;
       }
 
+      /* Hyperlink Base Styles (for all <a> tags) */
+      a {
+        color: #ff69b4; /* Barbie pink in light mode */
+        text-decoration: none;
+        transition: color 0.3s ease;
+      }
+
+      a:hover {
+        color: #ffb6c1; /* Lighter pink on hover */
+      }
+
+      body.dark-mode a {
+        color: #ffb6c1; /* Softer pink in dark mode for contrast */
+      }
+
+      body.dark-mode a:hover {
+        color: #fff; /* White on hover in dark mode */
+      }
+
       /* Header Styles */
       header {
         background: #ff69b4; /* Barbie Pink */
@@ -42,10 +61,6 @@
         top: 0;
         z-index: 100;
         animation: fadeIn 0.5s ease-in;
-      }
-
-      body.dark-mode header {
-        background: #e91e63; /* Darker pink for better contrast */
       }
 
       header h1 {
@@ -60,15 +75,13 @@
       }
 
       nav a {
-        color: #fff;
-        text-decoration: none;
+        color: #fff; /* White in header */
         margin: 0 15px;
         font-weight: 400;
-        transition: color 0.3s ease;
       }
 
       nav a:hover {
-        color: #ffe6f2;
+        color: #ffe6f2; /* Light pink hover */
       }
 
       /* Main Content */
@@ -99,28 +112,14 @@
         animation: fadeIn 0.7s ease-in;
       }
 
-      body.dark-mode footer {
-        background: #e91e63; /* Darker pink for better contrast */
-      }
-
       footer a {
-        color: #fff;
-        text-decoration: none;
+        color: #fff; /* White in footer */
         font-weight: 400;
-        transition: color 0.3s ease;
       }
 
       footer a:hover {
-        color: #ffe6f2;
+        color: #ffe6f2; /* Light pink hover */
         text-decoration: underline;
-      }
-
-      body.dark-mode footer a {
-        color: #fff;
-      }
-
-      body.dark-mode footer a:hover {
-        color: #ffb6c1; /* Softer pink hover */
       }
 
       /* Images */
@@ -157,8 +156,8 @@
       }
 
       body.dark-mode .theme-toggle {
-        background: #505050; /* Lighter gray */
-        color: #ffb6c1; /* Softer pink */
+        background: #505050;
+        color: #ffb6c1;
       }
 
       body.dark-mode .theme-toggle:hover {

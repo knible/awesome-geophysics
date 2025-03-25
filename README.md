@@ -685,7 +685,7 @@ Thanks to our many contributors!
 [![Contributors](https://contrib.rocks/image?repo=aradfarahani/awesome-geophysics)](https://github.com/aradfarahani/awesome-geophysics/graphs/contributors)
 
 | ▲ [Top](#awesome-geophysics) |
-| --- |
+| --- | 
 
 
 ---

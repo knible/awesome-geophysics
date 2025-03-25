@@ -137,32 +137,59 @@
         position: absolute;
         top: 20px;
         right: 30px;
-        background: #fff;
-        color: #ff69b4;
+        background: linear-gradient(45deg, #ff69b4, #ffb6c1); /* Gradient from Barbie pink to light pink */
+        color: #fff;
         border: none;
-        padding: 8px 16px;
+        padding: 10px 20px;
         border-radius: 25px;
         cursor: pointer;
         font-size: 0.95rem;
         font-weight: 500;
-        box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
-        transition: background 0.3s ease, color 0.3s ease, transform 0.2s ease;
+        font-family: "Poppins", sans-serif;
+        box-shadow: 0 4px 12px rgba(255, 105, 180, 0.4); /* Pink glow */
+        transition: all 0.3s ease;
+        overflow: hidden;
+        position: relative;
       }
 
       .theme-toggle:hover {
-        background: #ffb6c1;
-        color: #fff;
-        transform: translateY(-2px);
+        background: linear-gradient(45deg, #ffb6c1, #ff69b4); /* Reverse gradient on hover */
+        transform: scale(1.05); /* Slight scale up */
+        box-shadow: 0 6px 16px rgba(255, 105, 180, 0.6); /* Stronger glow */
       }
 
+      .theme-toggle:active {
+        transform: scale(0.95); /* Slight shrink on click */
+      }
+
+      /* Pseudo-element for a shiny effect */
+      .theme-toggle::before {
+        content: "";
+        position: absolute;
+        top: -50%;
+        left: -50%;
+        width: 200%;
+        height: 200%;
+        background: rgba(255, 255, 255, 0.2);
+        transform: rotate(30deg);
+        transition: all 0.5s ease;
+        pointer-events: none;
+      }
+
+      .theme-toggle:hover::before {
+        left: 100%; /* Shine moves across on hover */
+      }
+
+      /* Dark Mode Styles for Theme Toggle */
       body.dark-mode .theme-toggle {
-        background: #505050;
-        color: #ffb6c1;
+        background: linear-gradient(45deg, #505050, #ffb6c1); /* Dark gray to pink gradient */
+        color: #fff;
+        box-shadow: 0 4px 12px rgba(255, 182, 193, 0.4); /* Softer pink glow */
       }
 
       body.dark-mode .theme-toggle:hover {
-        background: #616161;
-        color: #fff;
+        background: linear-gradient(45deg, #616161, #fff); /* Gray to white gradient */
+        box-shadow: 0 6px 16px rgba(255, 255, 255, 0.5); /* White glow */
       }
 
       /* Animations */
@@ -198,7 +225,7 @@
         .theme-toggle {
           top: 15px;
           right: 15px;
-          padding: 6px 12px;
+          padding: 8px 16px;
           font-size: 0.85rem;
         }
       }

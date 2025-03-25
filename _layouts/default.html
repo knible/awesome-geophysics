@@ -56,7 +56,7 @@
       }
 
       nav a {
-        color: #fff;
+        color: #fff; /* White in both modes */
         text-decoration: none;
         margin: 0 15px;
         font-weight: 400;
@@ -64,7 +64,7 @@
       }
 
       nav a:hover {
-        color: #ffe6f2; /* Light pink hover for contrast */
+        color: #ffe6f2; /* Light pink hover */
       }
 
       /* Main Content */
@@ -96,23 +96,24 @@
       }
 
       footer a {
-        color: #fff; /* White for better contrast in light mode */
+        color: #fff; /* White in light mode */
         text-decoration: none;
         font-weight: 400;
         transition: color 0.3s ease;
       }
 
       footer a:hover {
-        color: #ffe6f2; /* Light pink hover */
+        color: #ffe6f2; /* Light pink hover in light mode */
         text-decoration: underline;
       }
 
       body.dark-mode footer a {
-        color: #e0f7fa; /* Light cyan for dark mode contrast */
+        color: #fff; /* White in dark mode for max contrast */
       }
 
       body.dark-mode footer a:hover {
-        color: #b2ebf2; /* Slightly darker cyan on hover */
+        color: #ffe6f2; /* Light pink hover in dark mode */
+        text-decoration: underline;
       }
 
       /* Images */

@@ -33,7 +33,7 @@
 
       /* Header Styles */
       header {
-        background: #1e88e5;
+        background: #ff69b4; /* Barbie Pink */
         color: #fff;
         padding: 20px 30px;
         border-radius: 8px;
@@ -64,7 +64,7 @@
       }
 
       nav a:hover {
-        color: #bbdefb;
+        color: #ffe6f2; /* Light pink hover for contrast */
       }
 
       /* Main Content */
@@ -88,7 +88,7 @@
         text-align: center;
         margin-top: 40px;
         padding: 20px;
-        background: #1e88e5;
+        background: #ff69b4; /* Barbie Pink */
         color: #fff;
         border-radius: 8px;
         box-shadow: 0 -4px 16px rgba(0, 0, 0, 0.2);
@@ -96,15 +96,23 @@
       }
 
       footer a {
-        color: #b3e5fc;
+        color: #fff; /* White for better contrast in light mode */
         text-decoration: none;
         font-weight: 400;
         transition: color 0.3s ease;
       }
 
       footer a:hover {
-        color: #e3f2fd;
+        color: #ffe6f2; /* Light pink hover */
         text-decoration: underline;
+      }
+
+      body.dark-mode footer a {
+        color: #e0f7fa; /* Light cyan for dark mode contrast */
+      }
+
+      body.dark-mode footer a:hover {
+        color: #b2ebf2; /* Slightly darker cyan on hover */
       }
 
       /* Images */
@@ -123,7 +131,7 @@
         top: 20px;
         right: 30px;
         background: #fff;
-        color: #1e88e5;
+        color: #ff69b4; /* Matches Barbie pink */
         border: none;
         padding: 8px 16px;
         border-radius: 25px;
@@ -135,14 +143,19 @@
       }
 
       .theme-toggle:hover {
-        background: #bbdefb;
+        background: #ffb6c1; /* Lighter pink for hover */
         color: #fff;
         transform: translateY(-2px);
       }
 
       body.dark-mode .theme-toggle {
         background: #424242;
-        color: #b3e5fc;
+        color: #ff69b4; /* Keeps Barbie pink in dark mode */
+      }
+
+      body.dark-mode .theme-toggle:hover {
+        background: #616161; /* Slightly lighter gray */
+        color: #ffb6c1;
       }
 
       /* Animations */

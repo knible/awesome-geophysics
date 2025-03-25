@@ -65,155 +65,59 @@ Welcome to <strong>Awesome Geophysics</strong> – a community-curated, ever-evo
 
 Enhance your geophysical workflows with these essential software solutions:
 
-- **[Auralib](https://github.com/whamlyn/auralib)**  
-  Python package to support investigation of geoscience problems including geophysics, rock physics, petrophysics, and data read/write in common formats.
-  
-- **[bh_tomo](https://github.com/groupeLIAMG/bh_tomo)**  
-  Numba-accelerated computation of surface wave dispersion.
-  
-- **[Bruges](https://github.com/agile-geoscience/bruges/tree/master/bruges)**  
-  Various geophysical equations and tools.
-  
-- **[celeri](https://github.com/brendanjmeade/celeri)**  
-  A python-based package designed to image earthquake cycle activity including the spatial and time varying fault coupling across geometrically complex fault systems at large scales.
-  
-- **[disba](https://github.com/keurfonluu/disba)**  
-  Borehole radar and seismic tomography package.
-  
-- **[emsig](https://emsig.xyz/)**  
-  Controlled-source electromagnetic modellers for layered (`empymod`) and three-dimensional (`emg3d`) anisotropic media.
-  
-- **[Fatiando a Terra](https://www.fatiando.org/)**  
-  A Python toolkit for geophysical modeling, ideal for addressing gravity, magnetics, and seismic challenges.
-  
-- **[Front End](https://geogiga.com/products/frontend/)**  
-  Preprocess seismic data with various functions, such as resampling, vertical stacking, nodal data assembling, trace swapping, and format conversion
-  
-- **[Geoelectricspy](https://github.com/aradfarahani/Geoelectricspy)**  
-  An interactive 3D visualization tool for subsurface resistivity data—perfect for understanding geoelectric structures.
-  
-- **[GeoPhyInv](https://github.com/pawbz/GeoPhyInv.jl)**  
-  Julia Toolbox for Geophysical Modeling and Inverse Problems.
-  
-- **[Geopsy](http://www.geopsy.org/)**  
-  A tool for processing ambient vibration data, widely used in site characterization and microzonation studies.
-  
-- **[GemPy](https://github.com/gempy-project/gempy)**  
-  3-D structural geological modelling software with implicit modelling and support for stochastic modelling.
-  
-- **[GMT (Generic Mapping Tools)](https://www.generic-mapping-tools.org/)**  
-  A robust toolset for creating high-quality maps and plots used across geoscience disciplines.
-  
-- **[gprMax](http://www.gprmax.com)**  
-  A comprehensive Python library for seismology, perfect for waveform analysis, data handling, and visualization.
-  
-- **[GPRPy](https://github.com/NSGeophysics/GPRPy)**  
-  Multi-format, GUI-based GPR processing and visualization.
-  
-- **[hvsrpy](https://github.com/jpvantassel/hvsrpy)**  
-  A Python package for horizontal-to-vertical spectral ratio processing.
-  
-- **[Madagascar](http://www.ahay.org/wiki/Main_Page)**  
-  An open-source platform designed for reproducible geophysical data processing and analysis.
-  
-- **[MDIO](https://mdio.dev)**  
-  Open source chunked and compressed cloud storage for seismic data based on Zarr with fast seismic ingestion and export tools – [Docs](https://mdio-python.readthedocs.io), [Source](https://github.com/TGSAI/mdio-python).
-  
-- **[modelr.io](https://github.com/agilescientific/modelr)**  
-  Web app for simple synthetic seismic forward modelling.
-  
-- **[OpendTect-Plugins](https://github.com/waynegm/OpendTect-Plugins)**  
-  Open source plugins for the [OpendTect](#platforms) seismic interpretation platform. See [the docs](http://waynegm.github.io/OpendTect-Plugin-Docs) for more information.
-  
-- **[OpenSeaSeis](https://github.com/JohnWStockwellJr/OpenSeaSeis)**  
-  Seismic workflow generator and seismic viewer.
-  
-- **[ObsPy](https://github.com/obspy/obspy)**  
-  A comprehensive Python library for seismology, perfect for waveform analysis, data handling, and visualization.
-  
-- **[Pastas](https://github.com/pastas/pastas)**  
-  Open-source Python framework for the analysis of groundwater time series.
-  
-- **[PyFWI](https://pyfwi.readthedocs.io/en/latest)**  
-  It can be used to perform full-waveform inversion (FWI) and time-lapse FWI of seismic data.
-  
-- **[pyGeoPressure](https://pygeopressure.readthedocs.io/en/latest)**  
-  Pore pressure prediction using well log data and seismic velocity data.
-  
-- **[PyGMI](https://patrick-cole.github.io/pygmi/pygmi.html)**  
-  It is a modelling and interpretation suite aimed at magnetic, gravity and other datasets.
-  
-- **[PyGIMLi](https://www.pygimli.org/)**  
-  A library for geophysical inversion and modeling with an emphasis on ease of use.
-  
-- **[PyLops](https://pylops.readthedocs.io/en/latest)**  
-  Linear Operators with some geophysics/seismic modules (e.g., pre- and post-stack AVO inversion, deconvolution, Marchenko redatuming, Radon filtering).
-  
-- **[Pyrocko](https://pyrocko.org/)**  
-  A toolkit for seismic waveform analysis and earthquake modeling.
-  
-- **[PySIT](http://pysit.org)**  
-  A Toolbox for seismic inversion and seismic imaging.
-  
-- **[pyVDS](https://github.com/equinor/pyvds)**  
-  Convenience wrapper around Bluware's OpenVDS+ Python bindings which enables reading of VDS files with a syntax familiar to users of segyio.
-  
-- **[pyZGY](https://github.com/equinor/pyzgy)**  
-  Convenience wrapper around Schlumberger's OpenZGY Python package which enables reading of ZGY files with a syntax familiar to users of segyio.
-  
-- **[R2](http://www.es.lancs.ac.uk/people/amb/Freeware/R2/R2.htm)**  
-  A forward/inverse solution for 3D or 2D current flow in quadrilateral or triangular meshes.
-  
-- **[RAGU](https://github.com/btobers/RAGU)**  
-  Radar interpretation GUI compatible with multiple radar datasets.
-  
-- **[readgssi](https://github.com/iannesbitt/readgssi)**  
-  Fast command line or console-based visualization, filtering, and translation of GSSI radar data.
-  
-- **[RedPy](https://github.com/ahotovec/REDPy)**  
-  Auto-clustering for seismic events.
-  
-- **[RECAST](https://github.com/keliankaz/recast)**  
-  Flexible and Scalable Earthquake Forecasting.
-  
-- **[RGPR](https://github.com/emanuelhuber/RGPR)**  
-  Reads, exports, processes, and plots ground-penetrating radar data.
-  
-- **[ResIPy](https://gitlab.com/hkex/resipy)**  
-  A Python wrapper around the R2 family of codes (for 2D/3D DC/IP inversion).
-  
-- **[rsudp](https://github.com/raspishake/rsudp)**  
-  Continuous ObsPy-based visual display, sudden motion monitoring, and historical replay of Raspberry Shake data.
-  
-- **[SAC (Seismic Analysis Code)](https://ds.iris.edu/ds/nodes/dmc/software/downloads/sac/)**  
-  A go-to tool for seismic waveform analysis, offering powerful data manipulation for seismologists worldwide.
-  
-- **[SeisComp](https://github.com/SeisComP/seiscomp)**  
-  Seismic observatory automation toolkit. Autodetection, storage, sharing, processing data and more.
-  
-- **[SeisUnix](https://github.com/JohnWStockwellJr/SeisUnix)**  
-  A classic suite for seismic reflection data processing, widely used in both academia and industry.
-  
-- **[Segyio](https://github.com/equinor/segyio)**  
-  Fast library for seismic SEGY files.
-  
-- **[Seismic Un*x](https://wiki.seismic-unix.org/start)**  
-  A powerful toolkit for seismic data processing.
-  
-- **[SeismicZFP](https://github.com/equinor/seismic-zfp)**  
-  Convert SEG-Y/ZGY files to compressed [SGZ files](https://github.com/equinor/seismic-zfp/blob/master/docs/file-specification.md) & retrieve arbitrary sub-volumes from these, fast.
-  
-- **[synthoseis](https://github.com/sede-open/synthoseis)**  
-  Synthoseis is an open-source, Python-based tool used for generating pseudo-random seismic data.
-  
-- **[swprocess](https://github.com/jpvantassel/swprocess)**  
-  A Python package for surface wave processing.
-  
-- **[Surfer](https://www.goldensoftware.com/products/surfer/)**  
-  A contouring and 3D mapping software, great for visualizing subsurface geophysical data.
-  
-- **[XTgeo](https://xtgeo.readthedocs.io/en/latest)**  
-  Python library with C backend to support manipulation of (oil industry) subsurface reservoir modelling.
+| **Name**                  | **Description**                                                                                                    |
+|---------------------------|--------------------------------------------------------------------------------------------------------------------|
+| **[Auralib](https://github.com/whamlyn/auralib)** | Python package to support investigation of geoscience problems including geophysics, rock physics, petrophysics, and data read/write in common formats. |
+| **[bh_tomo](https://github.com/groupeLIAMG/bh_tomo)** | Numba-accelerated computation of surface wave dispersion.                                                            |
+| **[Bruges](https://github.com/agile-geoscience/bruges/tree/master/bruges)** | Various geophysical equations and tools.                                                                       |
+| **[celeri](https://github.com/brendanjmeade/celeri)** | A python-based package designed to image earthquake cycle activity including the spatial and time varying fault coupling across geometrically complex fault systems at large scales. |
+| **[disba](https://github.com/keurfonluu/disba)** | Borehole radar and seismic tomography package.                                                                      |
+| **[emsig](https://emsig.xyz/)** | Controlled-source electromagnetic modellers for layered (`empymod`) and three-dimensional (`emg3d`) anisotropic media. |
+| **[Fatiando a Terra](https://www.fatiando.org/)** | A Python toolkit for geophysical modeling, ideal for addressing gravity, magnetics, and seismic challenges.         |
+| **[Front End](https://geogiga.com/products/frontend/)** | Preprocess seismic data with various functions, such as resampling, vertical stacking, nodal data assembling, trace swapping, and format conversion |
+| **[Geoelectricspy](https://github.com/aradfarahani/Geoelectricspy)** | An interactive 3D visualization tool for subsurface resistivity data—perfect for understanding geoelectric structures. |
+| **[GeoPhyInv](https://github.com/pawbz/GeoPhyInv.jl)** | Julia Toolbox for Geophysical Modeling and Inverse Problems.                                                        |
+| **[Geopsy](http://www.geopsy.org/)** | A tool for processing ambient vibration data, widely used in site characterization and microzonation studies.        |
+| **[GemPy](https://github.com/gempy-project/gempy)** | 3-D structural geological modelling software with implicit modelling and support for stochastic modelling.           |
+| **[GMT (Generic Mapping Tools)](https://www.generic-mapping-tools.org/)** | A robust toolset for creating high-quality maps and plots used across geoscience disciplines.                   |
+| **[gprMax](http://www.gprmax.com)** | A comprehensive Python library for seismology, perfect for waveform analysis, data handling, and visualization.     |
+| **[GPRPy](https://github.com/NSGeophysics/GPRPy)** | Multi-format, GUI-based GPR processing and visualization.                                                          |
+| **[hvsrpy](https://github.com/jpvantassel/hvsrpy)** | A Python package for horizontal-to-vertical spectral ratio processing.                                             |
+| **[Madagascar](http://www.ahay.org/wiki/Main_Page)** | An open-source platform designed for reproducible geophysical data processing and analysis.                        |
+| **[MDIO](https://mdio.dev)** | Open source chunked and compressed cloud storage for seismic data based on Zarr with fast seismic ingestion and export tools – [Docs](https://mdio-python.readthedocs.io), [Source](https://github.com/TGSAI/mdio-python). |
+| **[modelr.io](https://github.com/agilescientific/modelr)** | Web app for simple synthetic seismic forward modelling.                                                       |
+| **[OpendTect-Plugins](https://github.com/waynegm/OpendTect-Plugins)** | Open source plugins for the [OpendTect](#platforms) seismic interpretation platform. See [the docs](http://waynegm.github.io/OpendTect-Plugin-Docs) for more information. |
+| **[OpenSeaSeis](https://github.com/JohnWStockwellJr/OpenSeaSeis)** | Seismic workflow generator and seismic viewer.                                                                |
+| **[ObsPy](https://github.com/obspy/obspy)** | A comprehensive Python library for seismology, perfect for waveform analysis, data handling, and visualization.     |
+| **[Pastas](https://github.com/pastas/pastas)** | Open-source Python framework for the analysis of groundwater time series.                                          |
+| **[PyFWI](https://pyfwi.readthedocs.io/en/latest)** | It can be used to perform full-waveform inversion (FWI) and time-lapse FWI of seismic data.                       |
+| **[pyGeoPressure](https://pygeopressure.readthedocs.io/en/latest)** | Pore pressure prediction using well log data and seismic velocity data.                                       |
+| **[PyGMI](https://patrick-cole.github.io/pygmi/pygmi.html)** | It is a modelling and interpretation suite aimed at magnetic, gravity and other datasets.                         |
+| **[PyGIMLi](https://www.pygimli.org/)** | A library for geophysical inversion and modeling with an emphasis on ease of use.                                 |
+| **[PyLops](https://pylops.readthedocs.io/en/latest)** | Linear Operators with some geophysics/seismic modules (e.g., pre- and post-stack AVO inversion, deconvolution, Marchenko redatuming, Radon filtering). |
+| **[Pyrocko](https://pyrocko.org/)** | A toolkit for seismic waveform analysis and earthquake modeling.                                                  |
+| **[PySIT](http://pysit.org)** | A Toolbox for seismic inversion and seismic imaging.                                                              |
+| **[pyVDS](https://github.com/equinor/pyvds)** | Convenience wrapper around Bluware's OpenVDS+ Python bindings which enables reading of VDS files with a syntax familiar to users of segyio. |
+| **[pyZGY](https://github.com/equinor/pyzgy)** | Convenience wrapper around Schlumberger's OpenZGY Python package which enables reading of ZGY files with a syntax familiar to users of segyio. |
+| **[R2](http://www.es.lancs.ac.uk/people/amb/Freeware/R2/R2.htm)** | A forward/inverse solution for 3D or 2D current flow in quadrilateral or triangular meshes.                      |
+| **[RAGU](https://github.com/btobers/RAGU)** | Radar interpretation GUI compatible with multiple radar datasets.                                                 |
+| **[readgssi](https://github.com/iannesbitt/readgssi)** | Fast command line or console-based visualization, filtering, and translation of GSSI radar data.                  |
+| **[RedPy](https://github.com/ahotovec/REDPy)** | Auto-clustering for seismic events.                                                                              |
+| **[RECAST](https://github.com/keliankaz/recast)** | Flexible and Scalable Earthquake Forecasting.                                                                    |
+| **[RGPR](https://github.com/emanuelhuber/RGPR)** | Reads, exports, processes, and plots ground-penetrating radar data.                                              |
+| **[ResIPy](https://gitlab.com/hkex/resipy)** | A Python wrapper around the R2 family of codes (for 2D/3D DC/IP inversion).                                       |
+| **[rsudp](https://github.com/raspishake/rsudp)** | Continuous ObsPy-based visual display, sudden motion monitoring, and historical replay of Raspberry Shake data.    |
+| **[SAC (Seismic Analysis Code)](https://ds.iris.edu/ds/nodes/dmc/software/downloads/sac/)** | A go-to tool for seismic waveform analysis, offering powerful data manipulation for seismologists worldwide.      |
+| **[SeisComp](https://github.com/SeisComP/seiscomp)** | Seismic observatory automation toolkit. Autodetection, storage, sharing, processing data and more.               |
+| **[SeisUnix](https://github.com/JohnWStockwellJr/SeisUnix)** | A classic suite for seismic reflection data processing, widely used in both academia and industry.               |
+| **[Segyio](https://github.com/equinor/segyio)** | Fast library for seismic SEGY files.                                                                             |
+| **[Seismic Un*x](https://wiki.seismic-unix.org/start)** | A powerful toolkit for seismic data processing.                                                                 |
+| **[SeismicZFP](https://github.com/equinor/seismic-zfp)** | Convert SEG-Y/ZGY files to compressed [SGZ files](https://github.com/equinor/seismic-zfp/blob/master/docs/file-specification.md) & retrieve arbitrary sub-volumes from these, fast. |
+| **[synthoseis](https://github.com/sede-open/synthoseis)** | Synthoseis is an open-source, Python-based tool used for generating pseudo-random seismic data.                  |
+| **[swprocess](https://github.com/jpvantassel/swprocess)** | A Python package for surface wave processing.                                                                   |
+| **[Surfer](https://www.goldensoftware.com/products/surfer/)** | A contouring and 3D mapping software, great for visualizing subsurface geophysical data.                        |
+| **[XTgeo](https://xtgeo.readthedocs.io/en/latest)** | Python library with C backend to support manipulation of (oil industry) subsurface reservoir modelling.           |
+
  
 | ▲ [Top](#awesome-geophysics) |
 | --- |

